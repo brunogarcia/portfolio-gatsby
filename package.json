@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-delog",
-  "description": "A simplified blog for developers and designer. This starter built with Gatsby and Netlify CMS",
-  "author": "W3Layouts Team <info@w3layouts.com>",
-  "version": "1.6.0",
+  "name": "bruno-garcia-portfolio",
+  "description": "Porfolio of Bruno Garcia",
+  "author": "Bruno Garcia",
+  "version": "1.0.0",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/W3Layouts/gatsby-starter-delog/issues"
+    "url": "https://github.com/brunogarcia/portfolio"
   },
   "dependencies": {
     "gatsby": "^2.21.0",
@@ -15,6 +15,7 @@
     "gatsby-plugin-netlify-cms": "^4.1.38",
     "gatsby-plugin-offline": "^3.2.0",
     "gatsby-plugin-react-helmet": "^3.1.22",
+    "gatsby-plugin-react-svg": "^3.0.0",
     "gatsby-plugin-sass": "^2.1.28",
     "gatsby-plugin-sitemap": "^2.4.0",
     "gatsby-remark-emojis": "^0.4.2",
@@ -31,14 +32,14 @@
   "devDependencies": {
     "prettier": "^1.19.1"
   },
-  "homepage": "https://github.com/W3Layouts/gatsby-starter-delog#readme",
+  "homepage": "https://github.com/brunogarcia/portfolio#readme",
   "keywords": [
     "gatsby",
     "netlify cms"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/W3Layouts/gatsby-starter-delog.git"
+    "url": "git+https://github.com/brunogarcia/portfolio.git"
   },
   "scripts": {
     "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",

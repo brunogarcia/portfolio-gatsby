@@ -1,5 +1,8 @@
 import React from "react"
-import { StaticQuery, graphql, Link } from "gatsby"
+import { StaticQuery, graphql } from "gatsby"
+import GithubIcon from "../images/github.inline.svg";
+import LinkedinIcon from "../images/linkedin.inline.svg";
+
 export default () => (
   <StaticQuery
     query={graphql`
@@ -21,7 +24,12 @@ export default () => (
           className="primary-content" 
           dangerouslySetInnerHTML={{ __html: data.site.siteMetadata.home.description}}
         />
-        <Link to='/contact' className="button -primary">Get in touch &rarr;</Link>
+        <a href='https://github.com/brunogarcia' className="button -primary">
+          <GithubIcon role="img" aria-label="github icon" /> Github
+        </a>
+        <a href='https://www.linkedin.com/in/bruno-garcia-echegaray' className="button -primary">
+          <LinkedinIcon role="img" aria-label="Linkedin icon" /> Linkedin
+        </a>
       </div>
     )}
   />

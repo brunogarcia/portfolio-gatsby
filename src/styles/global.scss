@@ -9,9 +9,9 @@ body {
   margin-top: 0
 }
 body.light {
-  --primary-color: #381696;
+  --primary-color: green;
   --primary-text-color: #fff;
-  --featured-bg: #493b8a;
+  --featured-bg: gray;
   --featured-text: #fff;
   --secondary-color: #10072b;
   --background: #fff;
@@ -135,6 +135,12 @@ a {
       background-color: var(--secondary-color);
       color: var(--primary-text-color);
       text-decoration: none;
+    }
+    svg {
+      width: 20px;
+      height: 20px;
+      padding-right: 0.3em;
+      filter: invert(1);
     }
   }
   &:hover {
