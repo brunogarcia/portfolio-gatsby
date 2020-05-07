@@ -23,7 +23,10 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-        <p>&copy; 2020 Bruno Garcia</p>
+        <p>
+          &copy; 2020 Bruno Garcia
+          &bull; Powered by <a href="https://github.com/brunogarcia/portfolio">Github</a>, <a href="https://www.gatsbyjs.org/">Gatsby</a> and <a href="https://www.netlify.com/">Netlify</a>
+        </p>
       </footer>
     </div>
   )
