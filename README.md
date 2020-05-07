@@ -2,6 +2,4 @@
 
 Powered by [Gatsby](https://www.gatsbyjs.org/) and [Netlify](https://www.netlify.com/).
 
-# See in action
-
 [https://garciaechegaray.com](https://garciaechegaray.com)
