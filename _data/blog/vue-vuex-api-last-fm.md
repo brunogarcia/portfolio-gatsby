@@ -8,7 +8,7 @@ metaDescription: Vue, Vuex and the API of last.fm
 ---
 # Description
 
-A project made with Vue, Vuex, Vue Router, Vuetify and the API of Last.fm.
+A project made with [Vue](https://vuejs.org/), [Vuex](https://vuex.vuejs.org/), [Vue Router](https://router.vuejs.org/), [Vuetify](http://vuetifyjs.com/) and the [API of Last.fm](https://www.last.fm/api/).
 
 # Last.fm resources
 
