@@ -4,7 +4,7 @@ path: /flask-artist-booking
 date: 2020-05-17T18:53:36.571Z
 title: Python with Flask and SQLAlchemy
 thumbnail: /assets/flask-artist-booking.png
-metaDescription: React and Enzyme
+metaDescription: Python with Flask and SQLAlchemy
 ---
 # Description
 
