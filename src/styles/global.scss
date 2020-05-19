@@ -109,12 +109,56 @@ a {
 .hero-header {
   padding: 0 0 64px;
   max-width: 980px;
+  text-align: center;
 }
+
+.hero-header img {
+  border-radius: 100%;
+  padding: 3px;
+  margin-bottom: 2em;
+  max-width: 200px;
+  border: solid 3px var(--primary-color);
+}
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-width: 768px) {
+    .hero-header {
+      text-align: left;
+    }
+    .hero-header .row {
+      display: flex;
+    }
+
+    .hero-header .column-left {
+      flex: 20%;
+    }
+
+    .hero-header .column-right {
+      flex: 80%;
+    }
+
+    .hero-header img {
+      max-width: 100px;
+    }
+}
+@media only screen 
+  and (min-width: 1024px) {
+    .hero-header .column-left {
+      flex: 15%;
+    }
+    
+    .hero-header .column-right {
+      flex: 85%;
+    }
+}
+
 .headline {
   font-size: 36px;
   font-weight: 900;
   margin-bottom: 0.5rem;
 }
+
 .button {
   padding: 18px 27px;
   display: inline-block;
