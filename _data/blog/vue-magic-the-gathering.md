@@ -5,6 +5,7 @@ date: 2020-04-07T14:59:36.571Z
 title: Vue, Vuex, Vuetify and the API of Magic The Gathering
 thumbnail: /assets/vue-magic-the-gathering.png
 metaDescription: Vue, Vuex, Vuetify and the API of Magic The Gathering
+type: experiment
 ---
 # Description
 

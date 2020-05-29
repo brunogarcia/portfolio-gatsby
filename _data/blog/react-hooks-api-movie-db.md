@@ -5,6 +5,7 @@ date: 2020-04-05T14:59:36.571Z
 title: React, React Hooks and the API of The Movie DB
 thumbnail: /assets/react-movie-db.png
 metaDescription: React, React Hooks and the API of The Movie DB
+type: experiment
 ---
 # Description
 

@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
-const PostLink = ({ post }) => (
+const Item = ({ post }) => (
   <article className="card ">
     <Link to={post.frontmatter.path}>
       {!!post.frontmatter.thumbnail && (
@@ -18,4 +18,4 @@ const PostLink = ({ post }) => (
     </header>
   </article>
 )
-export default PostLink
+export default Item

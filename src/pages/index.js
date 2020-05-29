@@ -2,8 +2,11 @@ import React from "react"
 import Helmet from 'react-helmet';
 import { graphql } from 'gatsby'
 import Layout from "../components/layout"
-import PostLink from "../components/post-link"
 import HeroHeader from "../components/heroHeader"
+import Item from "../components/item"
+
+const BLOG = 'blog';
+const EXPERIMENT = 'experiment';
 
 const IndexPage = ({
   data: {
@@ -12,9 +15,13 @@ const IndexPage = ({
   },
 }) => {
 
+  const Experiments = edges
+    .filter(edge =>  edge.node.frontmatter.type === EXPERIMENT)
+    .map(edge => <Item key={edge.node.id} post={edge.node} />)
+
   const Posts = edges
-    .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
-    .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
+  .filter(edge =>  edge.node.frontmatter.type === BLOG)
+  .map(edge => <Item key={edge.node.id} post={edge.node} />)
 
   return (
     <Layout>
@@ -23,8 +30,14 @@ const IndexPage = ({
         <meta name="description" content={site.siteMetadata.description} />
         {!site.siteMetadata.w3l_dom_key ? null : <meta name="w3l-domain-verification" content={site.siteMetadata.w3l_dom_key} />}
       </Helmet>
-      <HeroHeader/>
+      <HeroHeader />
+
       <h2>Experiments &darr;</h2>
+      <div className="grids">
+        {Experiments}
+      </div>
+
+      <h2>Blog &darr;</h2>
       <div className="grids">
         {Posts}
       </div>
@@ -50,6 +63,7 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             path
+            type
             title
             thumbnail
           }

@@ -5,6 +5,7 @@ date: 2020-04-06T14:59:36.571Z
 title: Vue, Vuex and the API of last.fm
 thumbnail: /assets/vue-last-fm.png
 metaDescription: Vue, Vuex and the API of last.fm
+type: experiment
 ---
 # Description
 

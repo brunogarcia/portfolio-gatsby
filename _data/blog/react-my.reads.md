@@ -5,6 +5,7 @@ date: 2020-04-03T14:59:36.571Z
 title: React and Enzyme
 thumbnail: /assets/react-my-reads.png
 metaDescription: React and Enzyme
+type: experiment
 ---
 # Description
 

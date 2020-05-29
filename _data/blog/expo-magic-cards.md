@@ -5,6 +5,7 @@ date: 2020-04-02T14:59:36.571Z
 title: Expo.io and the API of Magic The Gathering
 thumbnail: /assets/expo-magic.png
 metaDescription: React and Enzyme
+type: experiment
 ---
 # Description
 
