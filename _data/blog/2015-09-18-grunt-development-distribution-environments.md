@@ -2,14 +2,12 @@
 template: BlogPost
 path: /grunt-development-distribution-environments
 date: 2015-09-18T18:50:30+02:00
-title: ! 'Grunt: development & distribution environments'
-metaDescription: Resumen de libros leídos en el 2014
+title: Grunt - development & distribution environments
+metaDescription: Grunt - development & distribution environments
 type: blog
 ---
 
 Llevo trabajando con Grunt mucho tiempo, al principio solo lo utilizaba para compilar ficheros LESS/Sass o para concatenar y comprimir ficheros JS. Pero últimamente lo utilizo para crear entornos de trabajo diferenciados, por ejemplo un entorno para desarrollo y otro para distribución. Si quieres ver un ejemplo real, he creado una [plantilla](https://github.com/brunogarcia/panda/blob/master/Gruntfile.js) para un pet project.
-
-***
 
 ## Entorno de desarrollo
 
