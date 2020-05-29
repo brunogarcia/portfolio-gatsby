@@ -18,7 +18,11 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [{
+        plugins: [
+        {
+          resolve: "gatsby-remark-embed-gist",
+        },
+        {
           resolve: `gatsby-remark-prismjs`,
           options: {
             classPrefix: "language-",
