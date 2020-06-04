@@ -2,9 +2,9 @@
 template: BlogPost
 path: /flask-artist-booking
 date: 2020-05-17T18:53:36.571Z
-title: Python with Flask and SQLAlchemy
+title: 'Flask: Musical venue and artist booking'
 thumbnail: /assets/flask-artist-booking.png
-metaDescription: Python with Flask and SQLAlchemy
+metaDescription: Musical venue and artist booking
 type: experiment
 ---
 # Description

@@ -1,15 +1,17 @@
 ---
 template: BlogPost
 path: /react-would-you-rather
-date: 2020-04-04T14:59:36.571Z
-title: React, Redux and Material UI
+date: 2018-04-04T14:59:36.571Z
+title: 'React: Would you rather?'
 thumbnail: /assets/react-would-you-rather.png
-metaDescription: React and Redux -Would you rather?
+metaDescription: React and Redux - Would you rather?
 type: experiment
 ---
 # Description
 
-A project made for the [Udacity React Nanodegree](https://eu.udacity.com/course/react-nanodegree--nd019) with [React](https://reactjs.org), [Redux](https://es.redux.js.org/), [React Router](https://reacttraining.com/react-router/) and [Material UI](https://material-ui.com/).
+A project made with [React](https://reactjs.org), [Redux](https://es.redux.js.org/), [React Router](https://reacttraining.com/react-router/) and [Material UI](https://material-ui.com/).
+
+This is a project for the [Udacity React Nanodegree](https://eu.udacity.com/course/react-nanodegree--nd019).
 
 # See in action
 

@@ -1,15 +1,17 @@
 ---
 template: BlogPost
 path: /react-my-reads
-date: 2020-04-03T14:59:36.571Z
-title: React and Enzyme
+date: 2018-04-03T14:59:36.571Z
+title: 'React: My reads'
 thumbnail: /assets/react-my-reads.png
 metaDescription: React and Enzyme
 type: experiment
 ---
 # Description
 
-A project made for the [Udacity React Nanodegree](https://eu.udacity.com/course/react-nanodegree--nd019) with [React](https://reactjs.org).
+A project made with [React](https://reactjs.org).
+
+This is a project for the [Udacity React Nanodegree](https://eu.udacity.com/course/react-nanodegree--nd019).
 
 # See in action
 
