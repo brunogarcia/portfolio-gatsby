@@ -1,11 +1,11 @@
 ---
 template: BlogPost
+type: experiment
 path: /react-cars-and-taxis-map
 date: 2018-05-16T14:59:36.571Z
 title: 'React: cars and taxis map'
-thumbnail: /assets/react-cars-taxis-map.png
 metaDescription: 'React: cars and taxis map'
-type: experiment
+thumbnail: https://res.cloudinary.com/pastelitos/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1607767810/bruno/react-cars-taxis-map_pj8wuh.png
 ---
 # Description
 

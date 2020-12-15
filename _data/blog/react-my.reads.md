@@ -1,11 +1,11 @@
 ---
 template: BlogPost
+type: experiment
 path: /react-my-reads
 date: 2018-04-03T14:59:36.571Z
 title: 'React: My reads'
-thumbnail: /assets/react-my-reads.png
 metaDescription: React and Enzyme
-type: experiment
+thumbnail: https://res.cloudinary.com/pastelitos/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1607767808/bruno/react-my-reads_im0kjq.png
 ---
 # Description
 

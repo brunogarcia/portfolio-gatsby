@@ -1,11 +1,11 @@
 ---
 template: BlogPost
+type: experiment
 path: /react-would-you-rather
 date: 2018-04-04T14:59:36.571Z
 title: 'React: Would you rather?'
-thumbnail: /assets/react-would-you-rather.png
 metaDescription: React and Redux - Would you rather?
-type: experiment
+thumbnail: https://res.cloudinary.com/pastelitos/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1607767808/bruno/react-would-you-rather_xuzk9k.png
 ---
 # Description
 

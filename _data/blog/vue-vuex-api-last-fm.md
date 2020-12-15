@@ -1,11 +1,11 @@
 ---
 template: BlogPost
+type: experiment
 path: /vue-vuex-api-lastfm
 date: 2020-04-06T14:59:36.571Z
 title: Vue & Last.fm
-thumbnail: /assets/vue-last-fm.png
 metaDescription: Vue, Vuex and the API of last.fm
-type: experiment
+thumbnail: https://res.cloudinary.com/pastelitos/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1607767809/bruno/vue-last-fm_cuxyfd.png
 ---
 # Description
 

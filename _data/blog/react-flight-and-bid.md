@@ -1,11 +1,11 @@
 ---
 template: BlogPost
+type: experiment
 path: /react-flight-and-bid
 date: 2018-05-22T14:59:36.571Z
 title: 'React: flight and bid'
-thumbnail: /assets/react-flight-and-bid.png
 metaDescription: 'React: flight and bid'
-type: experiment
+thumbnail: https://res.cloudinary.com/pastelitos/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1607767807/bruno/react-flight-and-bid_hbkeoh.png
 ---
 # Description
 
