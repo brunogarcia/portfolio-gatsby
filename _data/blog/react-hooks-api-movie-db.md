@@ -1,11 +1,11 @@
 ---
 template: BlogPost
+type: experiment
 path: /react-hooks-api-movie-db
 date: 2020-04-05T14:59:36.571Z
 title: React & The Movie DB
-thumbnail: /assets/react-movie-db.png
 metaDescription: React, React Hooks and the API of The Movie DB
-type: experiment
+thumbnail: https://res.cloudinary.com/pastelitos/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1607767810/bruno/react-movie-db_sevbxh.png
 ---
 # Description
 

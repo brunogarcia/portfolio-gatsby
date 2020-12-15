@@ -1,11 +1,11 @@
 ---
 template: BlogPost
+type: experiment
 path: /flask-trivia-api
 date: 2020-05-28T18:53:36.571Z
 title: 'Flask: Trivia App'
-thumbnail: /assets/flask-trivia-api.png
 metaDescription: Trivia App
-type: experiment
+thumbnail: https://res.cloudinary.com/pastelitos/image/upload/v1607767808/bruno/flask-trivia-api_c1cfwn.png
 ---
 # Description
 

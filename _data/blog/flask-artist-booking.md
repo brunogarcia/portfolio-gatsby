@@ -1,11 +1,11 @@
 ---
 template: BlogPost
+type: experiment
 path: /flask-artist-booking
 date: 2020-05-17T18:53:36.571Z
 title: 'Flask: Musical venue and artist booking'
-thumbnail: /assets/flask-artist-booking.png
 metaDescription: Musical venue and artist booking
-type: experiment
+thumbnail: https://res.cloudinary.com/pastelitos/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1607767808/bruno/flask-artist-booking_iqolxj.png
 ---
 # Description
 
