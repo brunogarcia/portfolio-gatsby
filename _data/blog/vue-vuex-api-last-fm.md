@@ -22,7 +22,7 @@ A project made with [Vue](https://vuejs.org/), [Vuex](https://vuex.vuejs.org/), 
 
 What music genre do you like more?
 
-[https://vue-last-fm.now.sh](https://vue-last-fm.now.sh)
+[https://vue-last-fm.netlify.app](https://vue-last-fm.netlify.app)
 
 # Github
 
