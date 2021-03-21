@@ -15,7 +15,7 @@ Unit testing with [Vue Testing Library](https://testing-library.com/docs/vue-tes
 
 # See in action
 
-[https://vue-magic-the-gathering.now.sh](https://vue-magic-the-gathering.now.sh/)
+[https://vue-magic-the-gathering.netlify.app](https://vue-magic-the-gathering.netlify.app)
 
 # Github
 
