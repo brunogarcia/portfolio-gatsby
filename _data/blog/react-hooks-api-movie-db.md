@@ -23,7 +23,7 @@ Unit testing with [React Testing Library](https://testing-library.com/docs/react
 
 Search for the popular movies.
 
-[https://themoviedb-brunogarcia.now.sh/](https://themoviedb-brunogarcia.now.sh/)
+[https://react-the-movie-db.netlify.app](https://react-the-movie-db.netlify.app)
 
 # Github
 
