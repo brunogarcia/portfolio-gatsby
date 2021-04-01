@@ -10,9 +10,9 @@ A nadie debería pillar desprevenido que los distintos perfiles del sector web e
 
 ### Los inicios fueron duros
 
-![image](http://farm4.staticflickr.com/3337/4613600791_6877d0692e.jpg)
+![image](https://farm4.staticflickr.com/3337/4613600791_6877d0692e.jpg)
 
-[Photo by nimrodcooper](http://www.flickr.com/photos/nimrodcooper/)
+[Photo by nimrodcooper](https://www.flickr.com/photos/nimrodcooper/)
 
 En el comienzo de los tiempos, bastaba con un *webmaster* a modo de
 hombre orquesta para diseñar, maquetar y programar una página web.
@@ -31,7 +31,7 @@ que era cliente suyo. *Amazing*.
 ### New kids on the block
 
 Durante este tiempo muchos perfiles se han unido al circo: [UX/AI
-Designers](http://jonparro.com/que-disciplinas-debe-conocer-un-disenador-ux/),
+Designers](https://jonparro.com/que-disciplinas-debe-conocer-un-disenador-ux/),
 especialistas en SEO/SEM/SMO, accesibilidad y visualización de datos,
 gente de analítica y marketing viral, documentalistas, y los
 injustamente denostados community managers.
@@ -40,7 +40,7 @@ injustamente denostados community managers.
 continuo movimiento de perfiles y tecnologías aplicadas a la web. Si
 quieres saber más sobre el tema puedes leer la [Guía de las Nuevas
 Profesiones editado por Infoempleo y
-KSchool](http://blog.infoempleo.com/blog/2012/02/28/ya-te-puedes-descargar-la-guia-de-las-nuevas-profesiones-de-manera-gratuita/).
+KSchool](https://blog.infoempleo.com/blog/2012/02/28/ya-te-puedes-descargar-la-guia-de-las-nuevas-profesiones-de-manera-gratuita/).
 
 Por mi parte decir que todos sois bienvenidos. Creo que cada profesión o
 rama del conocimiento tiene mucho que aportar al mundo web. **Es la
@@ -61,9 +61,9 @@ conocimiento. El número de nuevas tecnologías y metodologías es bestial.
 
 ### No es photoshop todo lo que brilla
 
-![image](http://farm4.staticflickr.com/3368/3225281716_729bec162c.jpg)
+![image](https://farm4.staticflickr.com/3368/3225281716_729bec162c.jpg)
 
-[Photo by adamsian3](http://www.flickr.com/photos/29291552@N06/)
+[Photo by adamsian3](https://www.flickr.com/photos/29291552@N06/)
 
 Ya existen diseñadores gráficos especializados en web, varios de ellos
 reciclados del diseño offline. Algunos muy buenos técnicamente pero con
@@ -75,8 +75,8 @@ percatando de las peculiaridades del medio y han sabido adaptarse al
 mismo.
 
 Si buscais un **web designer** en [Careers
-2.0](http://careers.stackoverflow.com/jobs?searchTerm=web+designer) o
-[Authentic Jobs](http://www.authenticjobs.com/#search=web%20designer)
+2.0](https://careers.stackoverflow.com/jobs?searchTerm=web+designer) o
+[Authentic Jobs](https://www.authenticjobs.com/#search=web%20designer)
 (dos de los mejores portales de empleo del mundo anglosajón) os
 encontraréis que se pide un perfil completamente distinto al de hace tan
 sólo 3-5 años. Ya no basta con conocer todos los shortcuts del
@@ -92,8 +92,8 @@ plataforma.
 
 Si realizamos el mismo ejercicio, y buscamos **front-end developer** en
 [Careers
-2.0](http://careers.stackoverflow.com/jobs?searchTerm=front+end) o
-[Authentic Jobs](http://www.authenticjobs.com/#search=front%20end),
+2.0](https://careers.stackoverflow.com/jobs?searchTerm=front+end) o
+[Authentic Jobs](https://www.authenticjobs.com/#search=front%20end),
 veremos que se repite el mismo patrón. El *maquetador de toda la vida*
 ha dejado de existir.
 
@@ -101,7 +101,7 @@ De un tiempo a esta parte al front-end developer se le exige tener unos
 conocimientos profundos de programación. Y cuando digo profundos no me
 refiero a conocer los 5 plugins molones de jQuery. Rebecca Murphey
 publicó hace unos meses un
-[artículo](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
+[artículo](https://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
 bastante completo al respecto. Habla de Javascript, Git, preprocesadores
 CSS, calidad del código, de perderle el miedo a la consola.
 
@@ -120,7 +120,7 @@ competitivos como industria.
 
 Algo que los programadores tienen bastante claro es la necesidad de
 [salir de la zona de
-confort](http://www.linkedin.com/answers/professional-development/professional-organizations/PRO_ORG/1041626-123915058).
+confort](https://www.linkedin.com/answers/professional-development/professional-organizations/PRO_ORG/1041626-123915058).
 La ‘zona de confort’ es aquella parcela de conocimiento y experiencia
 profesional en donde todos nos sentimos a gusto. Y en donde somos muy
 buenos. Se esta tan calentito que jamás nos planteamos salirnos de ella.

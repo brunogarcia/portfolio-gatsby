@@ -10,4 +10,4 @@ type: blog
 > Try to teach designers to be more development-oriented.
 > Advance together
 
-—[Teambox Blog](http://teambox.com/blog/fire-your-designer/ "Fire your designer")
+—[Teambox Blog](https://teambox.com/blog/fire-your-designer/ "Fire your designer")

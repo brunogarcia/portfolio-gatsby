@@ -8,16 +8,16 @@ type: blog
 
 ***
 
-La semana pasada he migrado mi blog de Tumblr a [Jekyll](http://jekyllrb.com/). El cambio ha sido motivado por varias razones. El más importante la pésima interfaz de usuario de Tumblr al momento de editar y escribir un nuevo post. Básicamente es un modal mal implementado y ejecutado. Una lástima por parte de Tumblr que fallen en algo tan básico y evidente.
+La semana pasada he migrado mi blog de Tumblr a [Jekyll](https://jekyllrb.com/). El cambio ha sido motivado por varias razones. El más importante la pésima interfaz de usuario de Tumblr al momento de editar y escribir un nuevo post. Básicamente es un modal mal implementado y ejecutado. Una lástima por parte de Tumblr que fallen en algo tan básico y evidente.
 
 En todo caso, si a Tumblr no le exiges demasiado, tener un blog en su plataforma es una de las mejores opciones. Al menos yo le pongo por delante de Wordpress o Blogger.
 
-El flujo de trabajo que propone [Jekyll](http://jekyllrb.com/) es completamente diferente. Simplemente escribes un post en formato [markdown](http://daringfireball.net/projects/markdown/) en tu editor de texto favorito (para mi [Sublime Text](http://www.sublimetext.com/) es la mejor opción) y cuando has finalizado, lanzas un *$ git push* y ya lo tienes online. Esto último gracias a [GitHub Pages](http://pages.github.com/) que viene de fábrica completamente integrado con Jekyll.
+El flujo de trabajo que propone [Jekyll](https://jekyllrb.com/) es completamente diferente. Simplemente escribes un post en formato [markdown](https://daringfireball.net/projects/markdown/) en tu editor de texto favorito (para mi [Sublime Text](https://www.sublimetext.com/) es la mejor opción) y cuando has finalizado, lanzas un *$ git push* y ya lo tienes online. Esto último gracias a [GitHub Pages](https://pages.github.com/) que viene de fábrica completamente integrado con Jekyll.
 
 ## Jekyll
 
 Pero recapitulemos un poco. ¿Qué es exactamente Jekyll?.
-Jekyll es un generador de sites estáticos. Está desarrollado en Ruby, y para el sistema de plantillas utiliza [Liquid](http://docs.shopify.com/themes/liquid-basics). La característica más importante es que **no utiliza ningún sistema de base de datos**. Sólo convierte ficheros .md a .html. Así de simple y sencillo.
+Jekyll es un generador de sites estáticos. Está desarrollado en Ruby, y para el sistema de plantillas utiliza [Liquid](https://docs.shopify.com/themes/liquid-basics). La característica más importante es que **no utiliza ningún sistema de base de datos**. Sólo convierte ficheros .md a .html. Así de simple y sencillo.
 
 
 ## Instalación
@@ -31,7 +31,7 @@ $ sudo gem install jekyll
 
 ## Migración
 
-Jekyll tiene una serie de [importers](http://import.jekyllrb.com/docs/home/) para prácticamente cualquier sistema de blog. En el caso de Tumblr la migración consiste en lanzar estas líneas de código.
+Jekyll tiene una serie de [importers](https://import.jekyllrb.com/docs/home/) para prácticamente cualquier sistema de blog. En el caso de Tumblr la migración consiste en lanzar estas líneas de código.
 
 ```bash
 $ ruby -rubygems -e 'require "jekyll-import";
@@ -39,7 +39,7 @@ $ ruby -rubygems -e 'require "jekyll-import";
 
 ```ruby
 	JekyllImport::Importers::Tumblr.run({
-		"url"            => "http://myblog.tumblr.com",
+		"url"            => "https://myblog.tumblr.com",
 		"format"         => "html",
 		"grab_images"    => false,
 		"add_highlights" => false,
@@ -47,13 +47,13 @@ $ ruby -rubygems -e 'require "jekyll-import";
 	})'
 ```
 
-Y ya está. En una carpeta llamada _posts_ encontrarás todos tus posts listos para ejecutarse en Jekyll. En mi caso, la migración a ficheros .md no funcionaba correctamente, vamos me creaba los ficheros pero sin el texto formateado adecuadamente. No me quedo otra opción que exportalo a  "html" y con una herramienta llamada [Pandoc](http://johnmacfarlane.net/pandoc/) realizar la conversión a markdown.
+Y ya está. En una carpeta llamada _posts_ encontrarás todos tus posts listos para ejecutarse en Jekyll. En mi caso, la migración a ficheros .md no funcionaba correctamente, vamos me creaba los ficheros pero sin el texto formateado adecuadamente. No me quedo otra opción que exportalo a  "html" y con una herramienta llamada [Pandoc](https://johnmacfarlane.net/pandoc/) realizar la conversión a markdown.
 
 Tuve algunos problemas con ciertas etiquetas html, por ejemplo no existe una etiqueta compatible con "iframe". Y con las rutas de las imágenes tampoco va muy fina la cosa. En todo caso, nada que algo de tiempo y dedicación no solucionen.
 
 ## GitHub Pages
 
-Como he mencionado anteriormente, [GitHub Pages](http://pages.github.com/) ya viene integrado con Jekyll. Si tienes una cuenta en GitHub, necesitas crear un repositorio del tipo "username.github.io", donde "username" es tu nombre de usuario en GitHub. A continuación haces un clone de dicho repositorio y creas un nuevo proyecto con Jekyll. Esto traducido a código sería algo así:
+Como he mencionado anteriormente, [GitHub Pages](https://pages.github.com/) ya viene integrado con Jekyll. Si tienes una cuenta en GitHub, necesitas crear un repositorio del tipo "username.github.io", donde "username" es tu nombre de usuario en GitHub. A continuación haces un clone de dicho repositorio y creas un nuevo proyecto con Jekyll. Esto traducido a código sería algo así:
 
 ```bash
 $ git clone https://github.com/username/username.github.io.git
@@ -64,7 +64,7 @@ $ git commit -m "My first version of Jekyll with GitHub Pages"
 $ git push
 ```
 
-En 5 minutos ya puedes acceder a la ruta "http://username.github.io" y ver tu primera versión de Jekyll online. Fantabuloso :)
+En 5 minutos ya puedes acceder a la ruta "https://username.github.io" y ver tu primera versión de Jekyll online. Fantabuloso :)
 
 ## Servidor en local
 
@@ -76,21 +76,21 @@ $ jekyll server -w
 
 La opción *-w* sirve para regenerar el site si realizas algún cambio.
 
-Si todo es correcto, podrás acceder a [http://localhost:4000](http://localhost:4000) y ver Jekyll ejecutandose en local.
+Si todo es correcto, podrás acceder a [https://localhost:4000](https://localhost:4000) y ver Jekyll ejecutandose en local.
 
 ## Generadores
 
-En Yeoman podrás encontrar varios generadores que implementan Jekyll, por ejemplo [generator-jekyllrb](https://github.com/robwierzbowski/generator-jekyllrb) es bastante completo. Te configura el proyecto con [Compass](http://compass-style.org/) y [HTML5 Boilerplate](http://html5boilerplate.com/).
+En Yeoman podrás encontrar varios generadores que implementan Jekyll, por ejemplo [generator-jekyllrb](https://github.com/robwierzbowski/generator-jekyllrb) es bastante completo. Te configura el proyecto con [Compass](https://compass-style.org/) y [HTML5 Boilerplate](https://html5boilerplate.com/).
 
-Personalmente eche en falta un generador con la opción de Jekyll + [Foundation](http://foundation.zurb.com/), o en su defecto con [Bootstrap](http://getbootstrap.com). Pero no se puede tener todo en esta vida :)
+Personalmente eche en falta un generador con la opción de Jekyll + [Foundation](https://foundation.zurb.com/), o en su defecto con [Bootstrap](https://getbootstrap.com). Pero no se puede tener todo en esta vida :)
 
 ## Look & feel
 
 Finalmente opte por crear un proyecto desde cero con Foundation y [Bourbon](bourbon.io).
 
-El primero es el super framework front-end desarrollado por [Zurb](http://zurb.com/).
+El primero es el super framework front-end desarrollado por [Zurb](https://zurb.com/).
 
-Bourbon es una librería de mixins para [Sass](http://sass-lang.com/) muy completa y útil. Los mixins vienen a ser lo que entenderíamos por funciones en el mundo de la programación. Aceptan parámetros y devuelven un resultado ad-hoc. Por ejemplo estas líneas en Sass y Bourbon:
+Bourbon es una librería de mixins para [Sass](https://sass-lang.com/) muy completa y útil. Los mixins vienen a ser lo que entenderíamos por funciones en el mundo de la programación. Aceptan parámetros y devuelven un resultado ad-hoc. Por ejemplo estas líneas en Sass y Bourbon:
 
 ```css
 .button {
@@ -141,8 +141,8 @@ $ cd myblog_with_foundation
 $ grunt build
 ```
 
-[Libsass](http://libsass.org/) es un compilador de Sass escrito en C/C++. Según los test es bastante más rápido y eficiente que el compilador original escrito en Ruby. Y es la opción
-que utiliza [Zurb](http://zurb.com/).
+[Libsass](https://libsass.org/) es un compilador de Sass escrito en C/C++. Según los test es bastante más rápido y eficiente que el compilador original escrito en Ruby. Y es la opción
+que utiliza [Zurb](https://zurb.com/).
 
 La última línea (*$ grunt build*) se encarga de compilar los ficheros .sass a .css
 

@@ -22,7 +22,7 @@ Todo comenzó (o volvió a comenzar) gracias a [Guilhem](https://twitter.com/bij
 
 ### Jiro Taniguchi
 
-La primera vez que leí algo de [Taniguchi](http://en.wikipedia.org/wiki/Jiro_Taniguchi) fue en el verano del 2012 cuando todavía vivía en Donostia, y comencé con buen pie, ya que leí los dos tomos de [Barrio lejano](https://www.goodreads.com/book/show/1187423.Barrio_lejano_Tomo_1) en pocas semanas. Comencé el 2014 leyendo una de sus mejores novelas: [Los años dulces](https://www.goodreads.com/book/show/12527927-los-a-os-dulces-01). La verdad, ambas novelas tienen similitudes.
+La primera vez que leí algo de [Taniguchi](https://en.wikipedia.org/wiki/Jiro_Taniguchi) fue en el verano del 2012 cuando todavía vivía en Donostia, y comencé con buen pie, ya que leí los dos tomos de [Barrio lejano](https://www.goodreads.com/book/show/1187423.Barrio_lejano_Tomo_1) en pocas semanas. Comencé el 2014 leyendo una de sus mejores novelas: [Los años dulces](https://www.goodreads.com/book/show/12527927-los-a-os-dulces-01). La verdad, ambas novelas tienen similitudes.
 
 ![Los años dulces 1](https://d.gr-assets.com/books/1318859145m/12897963.jpg)
 ![Los años dulces 2](https://d.gr-assets.com/books/1315237031m/12527927.jpg)
@@ -100,7 +100,7 @@ Muy recomendable, no solo ésta serie compuesta de 10 capítulos sino también e
 
 ![Paul en el campo](https://d.gr-assets.com/books/1262477458m/7478602.jpg)
 
-La obra de [Michel Rabagliati](http://www.michelrabagliati.com) es una delicia de principio a fin. Me gusta su estilo gráfico, me gustan sus historias, me gustan los personajes. Es complicado encontrar algo de su obra en las bibliotecas públicas. Algunas veces sólo pillas un libro bastante viejo. Pero si tienes suerte y te engancha este tipo de novela gráfica te convertirás en fan incondicional.
+La obra de [Michel Rabagliati](https://www.michelrabagliati.com) es una delicia de principio a fin. Me gusta su estilo gráfico, me gustan sus historias, me gustan los personajes. Es complicado encontrar algo de su obra en las bibliotecas públicas. Algunas veces sólo pillas un libro bastante viejo. Pero si tienes suerte y te engancha este tipo de novela gráfica te convertirás en fan incondicional.
 
 Michel Rabagliati es un franco-canadiense con un álter ego llamado Paul. Toda la obra de este autor gira alrededor de la vida de Paul. Pasando por su infancia, adolescencia y también en la edad adulta cuando Paul esta casado y tiene hijos. Cada novela es una etapa de la vida de Paul y las circunstancias que le toca vivir.
 
@@ -112,17 +112,17 @@ Muy recomendable si te gustan las historias sencillas e intimistas de un tipo co
 
 ![La pipa de Marcos](https://d.gr-assets.com/books/1187549151m/1735174.jpg)
 
-Descubrí esta novela gráfica del bilbaino [Javier de Isusi](http://es.wikipedia.org/wiki/Javier_de_Isusi) un día curioseando en la biblioteca. La historia engancha a la primera. Cuenta la historia de Vasco, un chaval que viaja a Chiapas en busca de un amigo. Relata muy bien situaciones rocambolescas y surrealistas en pleno levantamiento zapatista en el México de los 90.
+Descubrí esta novela gráfica del bilbaino [Javier de Isusi](https://es.wikipedia.org/wiki/Javier_de_Isusi) un día curioseando en la biblioteca. La historia engancha a la primera. Cuenta la historia de Vasco, un chaval que viaja a Chiapas en busca de un amigo. Relata muy bien situaciones rocambolescas y surrealistas en pleno levantamiento zapatista en el México de los 90.
 
 El guión es sólido y los personajes creibles. No defrauda. Incluso hace su aparición el subcomandante Marcos y su famosa pipa. Forma parte de la serie "Juan sin tierra" que se compone de cuatro libros por si quieres continuar la historia.
 
-En general todo lo que publica [Astiberri](http://www.astiberri.com/) es digno de ser leído.
+En general todo lo que publica [Astiberri](https://www.astiberri.com/) es digno de ser leído.
 
 ***
 
 ### Fantasias Extraordinarias
 
-[Fantasias Extraordinarias](http://ultrarradio.com/catalogo/fantasias-extraordinarias/) es un libro editado por [La Criatura](http://www.lacriatura.es/) y [Ultrarradio](http://ultrarradio.com). Tuve la suerte de conocer a Rafa a principios de año y me habló de este libro de micro relatos ilustrado por varios pesos pesados.
+[Fantasias Extraordinarias](https://ultrarradio.com/catalogo/fantasias-extraordinarias/) es un libro editado por [La Criatura](https://www.lacriatura.es/) y [Ultrarradio](https://ultrarradio.com). Tuve la suerte de conocer a Rafa a principios de año y me habló de este libro de micro relatos ilustrado por varios pesos pesados.
 Aunque soy más de novela gráfica, Fantasias Extraordinarias me parecio un libro muy currado tanto en las historias como en el apartado gráfico.
 
 Además era la primera vez que conocía de primera mano a un autor de libros ilustrados y pude hacerle todo tipo de preguntas sobre la edición y el desarrollo de la misma.
@@ -139,7 +139,7 @@ Otro descubrimiento casual, de esos que tanto me gustan. No conocía nada de la 
 
 [Día de mercado](https://www.goodreads.com/book/show/11106982-dia-de-mercado) es una historia enmarcada a principios del siglo XX en un pequeño pueblo de Europa del Este. El personaje principal, un artesano judío, ya no puede vender las hermosas alfombras que fabrica en su taller. Ha llegado la industrialización que abarata los precios a cambio de disminuir la calidad.
 
-Gráfica y edición impecable. Otro libro que [Astiberri](http://www.astiberri.com/) nos regala a los adictos al género.
+Gráfica y edición impecable. Otro libro que [Astiberri](https://www.astiberri.com/) nos regala a los adictos al género.
 
 ***
 
@@ -147,7 +147,7 @@ Gráfica y edición impecable. Otro libro que [Astiberri](http://www.astiberri.c
 
 ![Jamilti y otras historias de Israel](https://d.gr-assets.com/books/1327880504m/3128795.jpg)
 
- Anteriormente ya había leído algo de [Rutu Modan](http://en.wikipedia.org/wiki/Rutu_Modan). En [Metralla](https://www.goodreads.com/book/show/12102957-metralla) la autora israelí nos habla de cómo es el día a día en Tel Aviv. Con sus terroristas suicidas y sus bares de moda.
+ Anteriormente ya había leído algo de [Rutu Modan](https://en.wikipedia.org/wiki/Rutu_Modan). En [Metralla](https://www.goodreads.com/book/show/12102957-metralla) la autora israelí nos habla de cómo es el día a día en Tel Aviv. Con sus terroristas suicidas y sus bares de moda.
 
  [Jamilti y otras historias de Israel](https://www.goodreads.com/book/show/3128795-jamilti-and-other-stories) es un poco más de lo mismo - cosa que no está mal, si te interesa conocer la vida en un país rodeado de enemigos y odiado por la totalidad de la comunidad árabe. Esta vez no es una novela, si no un compendio de cuentos cortos, algunos más acertados que otros, pero con un nivel medio bastante bueno.
 
@@ -157,11 +157,11 @@ Gráfica y edición impecable. Otro libro que [Astiberri](http://www.astiberri.c
 
 ![No cambies nunca](https://d.gr-assets.com/books/1336576834m/13640753.jpg)
 
-Hace unos años cuando leí [Tu me has matado](https://www.goodreads.com/book/show/9605450-t-me-has-matado) de [David Sanchez](http://amorlangosta.tumblr.com/) quede enganchado de su universo grotesco y situaciones surrealistas. Incluso tiene una [BSO](http://open.spotify.com/user/amorlangosta/playlist/4TRnfh0A2MV4kshUgoZ2aI) digna de cualquier película de Tarantino.
+Hace unos años cuando leí [Tu me has matado](https://www.goodreads.com/book/show/9605450-t-me-has-matado) de [David Sanchez](https://amorlangosta.tumblr.com/) quede enganchado de su universo grotesco y situaciones surrealistas. Incluso tiene una [BSO](https://open.spotify.com/user/amorlangosta/playlist/4TRnfh0A2MV4kshUgoZ2aI) digna de cualquier película de Tarantino.
 
 Si aquel libro podía retorcer todos tus sentidos, en [No cambies nunca](https://www.goodreads.com/book/show/13640753-no-cambies-nunca) la historia es tan rocambolesca que cuesta seguirle el hilo. Realmente no sabía que esperar.
 
-Bueno si sabía: yo quería leer la segunda parte de "Tu me has matado", pero me encontre con _otro cosa_ que ni fu ni fa. Eso si, se repite el mismo grafismo super cuidado y una edición digna de [Astiberri](http://www.astiberri.com/).
+Bueno si sabía: yo quería leer la segunda parte de "Tu me has matado", pero me encontre con _otro cosa_ que ni fu ni fa. Eso si, se repite el mismo grafismo super cuidado y una edición digna de [Astiberri](https://www.astiberri.com/).
 
 ***
 
@@ -169,7 +169,7 @@ Bueno si sabía: yo quería leer la segunda parte de "Tu me has matado", pero me
 
 ![Éxito para perdedores](https://d.gr-assets.com/books/1353237503m/16156024.jpg)
 
-[Éxito para perdedores](https://www.goodreads.com/book/show/16156024-xito-para-perdedores) es gran libro y una gran historia. Relata las aventuras empresariales de David Cantolla, fundador de Teknoland, Zinkia, Bitoon y creador de Pocoyó. [Poun Studio](http://www.pounstudio.com/) (la empresa donde trabajo) es vecino de Zinkia, y me picaba la curiosidad por conocer más sobre la debacle esta famosa empresa de animación.
+[Éxito para perdedores](https://www.goodreads.com/book/show/16156024-xito-para-perdedores) es gran libro y una gran historia. Relata las aventuras empresariales de David Cantolla, fundador de Teknoland, Zinkia, Bitoon y creador de Pocoyó. [Poun Studio](https://www.pounstudio.com/) (la empresa donde trabajo) es vecino de Zinkia, y me picaba la curiosidad por conocer más sobre la debacle esta famosa empresa de animación.
 
 Recomendable si quieres conocer la vida de un emprendedor en serie. Tiene un puntito de libro de auto ayuda, pero sin llegar a serlo del todo. Pero esto último no lo tengaís en cuenta, son manías mias. Lo dicho, vale la pena leerlo y disfrutarlo.
 
@@ -179,7 +179,7 @@ Recomendable si quieres conocer la vida de un emprendedor en serie. Tiene un pun
 
 ![El juego lúgubre](https://d.gr-assets.com/books/1302422972m/11059315.jpg)
 
-Finalizado el libro [El juego lúgubre](https://www.goodreads.com/book/show/11059315-el-juego-l-gubre) puedo decir que he leído todo lo que [Paco Roca](http://www.pacoroca.com/works/comics) ha publicado. Hala, una estrellita para Bruno (dejadme en paz, que estas tonterias son importantes mí).
+Finalizado el libro [El juego lúgubre](https://www.goodreads.com/book/show/11059315-el-juego-l-gubre) puedo decir que he leído todo lo que [Paco Roca](https://www.pacoroca.com/works/comics) ha publicado. Hala, una estrellita para Bruno (dejadme en paz, que estas tonterias son importantes mí).
 
 Con Paco Roca tengo la misma sensación que me inspiran autores como Taniguchi o Rabagliati. Quiero leerlo todo, cada libro sea bueno, regular o mediocre. Por suerte el nivel de Roca es siempre de bueno a excelente. Personalmente nunca me ha defraudado ninguno de sus trabajos. Incluso me gusto mucho [Memorias de un hombre en pijama ](https://www.goodreads.com/book/show/12668154-memorias-de-un-hombre-en-pijama) que es una recopilación de tiras cómicas publicas en el periódico Las Provincias.
 
@@ -193,7 +193,7 @@ Paco Roca tiene un grafismo arrollador, cada viñeta esta desarrollada a la perf
 
 ![Seconds](https://d.gr-assets.com/books/1399502867m/18630542.jpg)
 
-Este libro me lo dejó [Ketodico](http://www.ketodico.com), y aunque me cuesta leer libros recomendados (nunca sabes si tus gustos son similares), con [Seconds](https://www.goodreads.com/book/show/18630542-seconds) de Bryan Lee O'Malley acertó de lleno.
+Este libro me lo dejó [Ketodico](https://www.ketodico.com), y aunque me cuesta leer libros recomendados (nunca sabes si tus gustos son similares), con [Seconds](https://www.goodreads.com/book/show/18630542-seconds) de Bryan Lee O'Malley acertó de lleno.
 
 Había visto la película basada en una de sus obras [Scott Pilgrim vs the World](https://www.youtube.com/watch?v=O_RrNCqCIPE) y me gusto bastante la combinación de _manga americanizado_ + videojuegos + música 8-bits.
 
@@ -255,12 +255,12 @@ Pero los oankali -una raza alienígena- se las arregla para salvar a unos pocos.
 
 Pero no a través de inseminación artificial o alguna avanzada tecnología de procreación, a ellos les mola el rollo clásico, vamos tocarse y tener orgasmos en plan luna de miel con los humanos.
 
-El problema es que los oankali se parecen más al [bicho de Alien](http://41.media.tumblr.com/tumblr_mdjq8tpSDN1rh2k21o2_1280.jpg) que a Brad Pitt.
+El problema es que los oankali se parecen más al [bicho de Alien](https://41.media.tumblr.com/tumblr_mdjq8tpSDN1rh2k21o2_1280.jpg) que a Brad Pitt.
 
 ***
 
 ### Descartadas
-Singularity Sky y The Engines of God: estos libros llevaban demasiado tiempo en [The Pila](http://atalaya.blogalia.com/historias/17130) y decidí que no tenía mucho sentido que siguieran ocupando un lugar en mi lista de libros por terminar de leer. Sinceramente no recuerdo por qué se quedaron en el limbo. Ahora que sólo leo ebooks, es más facíl deshacerse de ellos.
+Singularity Sky y The Engines of God: estos libros llevaban demasiado tiempo en [The Pila](https://atalaya.blogalia.com/historias/17130) y decidí que no tenía mucho sentido que siguieran ocupando un lugar en mi lista de libros por terminar de leer. Sinceramente no recuerdo por qué se quedaron en el limbo. Ahora que sólo leo ebooks, es más facíl deshacerse de ellos.
 
 ***
 
@@ -288,7 +288,7 @@ Te hace reflexionar sobre el papel que tiene el resto de la sociedad para con es
 
 ![Civilización: Occidente y el resto](https://d.gr-assets.com/books/1347777341m/10475421.jpg)
 
-La colección de ensayos de la [Editorial Debate](http://www.megustaleer.com/editoriales/debate/DB) suele ser bastante buena. Siempre que puedo reviso el listado de sus última publicaciones para ver si ha salido algún libro que me interese. Además tienen la sana costumbre de publicar en formato EPUB, que además de ser más barato me ahorra espacio en casa.
+La colección de ensayos de la [Editorial Debate](https://www.megustaleer.com/editoriales/debate/DB) suele ser bastante buena. Siempre que puedo reviso el listado de sus última publicaciones para ver si ha salido algún libro que me interese. Además tienen la sana costumbre de publicar en formato EPUB, que además de ser más barato me ahorra espacio en casa.
 
 En [Civilización: Occidente y el resto](https://www.goodreads.com/book/show/17230043-civilizaci-n) el historiador Niall Ferguson nos describe las posibles razones que llevaron a la civilización Occidental ha gobernar el mundo durante los últimos cinco siglos. Según su planteamiento se deben a seis principios fundamentales: la competencia, la revolución científica, el imperio de la ley, la medicina moderna, la sociedad de consumo y la ética de trabajo.
 
@@ -298,9 +298,9 @@ Si todo esto te parecen las tonterías que un arrogante inglés se ha inventado 
 
 ## Tecnología
 
-Descubrí [Backbone.Marionette.js A Gentle Introduction](https://www.goodreads.com/book/show/18365469-backbone-marionette-js-agentle-introduction) gracias a [Leanpub](http://www.leanpub.com), un servicio online donde los autores pueden ir publicado libros técnicos por fascísulos. Como lector puedes apoyar la escritura del libro pagando con anterioridad a la finalización del mismo. Además cada vez que el libro se actualiza o se añade un nuevo capítulo, tienes la posibilidad de bajar nuevamente el libro sin coste adicional.
+Descubrí [Backbone.Marionette.js A Gentle Introduction](https://www.goodreads.com/book/show/18365469-backbone-marionette-js-agentle-introduction) gracias a [Leanpub](https://www.leanpub.com), un servicio online donde los autores pueden ir publicado libros técnicos por fascísulos. Como lector puedes apoyar la escritura del libro pagando con anterioridad a la finalización del mismo. Además cada vez que el libro se actualiza o se añade un nuevo capítulo, tienes la posibilidad de bajar nuevamente el libro sin coste adicional.
 
-La metodología que aplica [David Sulc](http://davidsulc.com/blog/) consiste en desarrollar desde cero una guía de contactos con Marionette.js. Además tienes acceso al [repositorio público](https://github.com/davidsulc/marionette-gentle-introduction) con todo el código fuente disponible para bajarlo y arrancarlo en local. Es una muy buena forma de comenzar con este framework.
+La metodología que aplica [David Sulc](https://davidsulc.com/blog/) consiste en desarrollar desde cero una guía de contactos con Marionette.js. Además tienes acceso al [repositorio público](https://github.com/davidsulc/marionette-gentle-introduction) con todo el código fuente disponible para bajarlo y arrancarlo en local. Es una muy buena forma de comenzar con este framework.
 
 Este libro forma parte de un compendio llamado [Marionette.js A to Z](https://leanpub.com/b/marionettejs-a-to-z) publicado en Leanpub.
 

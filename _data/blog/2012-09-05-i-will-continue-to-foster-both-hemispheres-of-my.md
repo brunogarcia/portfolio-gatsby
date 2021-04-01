@@ -10,4 +10,4 @@ type: blog
 > myself not just in math and code, but also in art, music, design, and
 > usability.
 
-—[A Front End Engineer’s Manifesto](http://f2em.com/#brain-hemispheres)
+—[A Front End Engineer’s Manifesto](https://f2em.com/#brain-hemispheres)

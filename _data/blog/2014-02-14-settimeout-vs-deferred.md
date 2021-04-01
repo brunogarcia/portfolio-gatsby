@@ -21,7 +21,7 @@ Ahora estoy comenzando a utilizar un objeto jQuery llamado
 [Deferred](https://api.jquery.com/category/deferred-object/).
 Básicamente hace lo mismo, pero de forma mas limpia. Y así evitamos la
 famosa [Callback Pyramid of
-Doom](http://www.reddit.com/r/javascript/comments/1atmht/how_we_killed_the_callback_pyramid_of_doom/).
+Doom](https://www.reddit.com/r/javascript/comments/1atmht/how_we_killed_the_callback_pyramid_of_doom/).
 
 ```javascript
 var dfd = $.Deferred();

@@ -35,8 +35,8 @@ semanas, como lamentablemente hacen muchas empresas de recursos humanos
 
 Si quieres atraer talento de verdad, tendrás que enfocarlo de otra
 forma. Os pongo un par de ejemplos: [No te vayas a
-Alemania](http://notevayasaalemania.com) (Wattio) y [Denies
-kidnapping](http://kaleidos.net/blog/breaking-news-kaleidos-seeks-new-front-end-engineer-denies-kidnapping/)
+Alemania](https://notevayasaalemania.com) (Wattio) y [Denies
+kidnapping](https://kaleidos.net/blog/breaking-news-kaleidos-seeks-new-front-end-engineer-denies-kidnapping/)
 (Kaleidos).
 
 Puedo entender que no muchas empresas pueden permitirse el lujo de
@@ -50,14 +50,14 @@ otro.
 Otro camino pueden ser los portales de empleo especializados. En el
 mundo anglosajón ya son bastante comunes, y por suerte en la península
 ya tenemos muy buenas opciones dependiendo de tu perfil
-profesional: [Betabeers](http://betabeers.com) (desarrollo), [Domestika](http://www.domestika.org/empleo/oferta) (desarrollo
-+ diseño) y [Uxplora](http://www.uxplora.com/) (UX/AI).
+profesional: [Betabeers](https://betabeers.com) (desarrollo), [Domestika](https://www.domestika.org/empleo/oferta) (desarrollo
++ diseño) y [Uxplora](https://www.uxplora.com/) (UX/AI).
 
 ¿Y por qué es mejor un portal especializado de empleo?. Bueno, para
 empezar la saturación de ofertas es menor y esto implica que las ofertas
 están más segmentadas que en cualquier portal generalista.
 
-Por ejemplo [Betabeers](http://betabeers.com) sólo tiene 5 categorías:
+Por ejemplo [Betabeers](https://betabeers.com) sólo tiene 5 categorías:
 Frontend, Backend, Apps, Sysadmin y Maquetador. ¿Puede existir algo más
 sencillo para buscar empleo?, lo dudo. En unos minutos puedes
 leer prácticamente todas las ofertas de las últimas semanas y realizar
@@ -69,7 +69,7 @@ contacto.
 
 Esta red social siempre te sorprende cuando menos te lo
 esperas. Personalmente desconocía la existencia de un sección de empleo
-dentro de [Linkedin](http://www.linkedin.com). Y la verdad es que
+dentro de [Linkedin](https://www.linkedin.com). Y la verdad es que
 funciona bastante bien.
 
 Una gran funcionalidad que no tiene ningún otro competidor es que puedes

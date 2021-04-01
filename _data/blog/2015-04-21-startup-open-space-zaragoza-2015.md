@@ -7,15 +7,15 @@ metaDescription: Resumen del Startup Open Space Zaragoza 2015
 type: blog
 ---
 
-El pasado 18 de abril tuve la suerte de poder asistir a la segunda edición del [Startup Open Space Zaragoza](http://sosz15.cachirulovalley.com/) organizado por la gente de [Cachirulo Valley](http://cachirulovalley.com/). Este resumen nació con la intención de transmitir todo ese conocimiento a mi compis de [Poun Studio](http://www.pounstudio.com/) que por diversas razones no pudieron asistir.
+El pasado 18 de abril tuve la suerte de poder asistir a la segunda edición del [Startup Open Space Zaragoza](https://sosz15.cachirulovalley.com/) organizado por la gente de [Cachirulo Valley](https://cachirulovalley.com/). Este resumen nació con la intención de transmitir todo ese conocimiento a mi compis de [Poun Studio](https://www.pounstudio.com/) que por diversas razones no pudieron asistir.
 
 ![Open Space Zaragoza](https://live.staticflickr.com/8708/17072054259_4aaa126361_c_d.jpg)
 
-Esta es la segunda vez que asisto a una [open space](http://en.wikipedia.org/wiki/Open_Space_Technology), la primera fue el [Save Informáticos](http://www.genbetadev.com/trabajar-como-desarrollador/saveinformaticos-debatiendo-sobre-el-futuro-de-la-profesion-de-informatico) organizado por [Reeelab](http://reeelab.com/) allá por el 2013. Fue una buena experiencia y aprendí mucho en aquella ocasión. Tenía ganas de mas.
+Esta es la segunda vez que asisto a una [open space](https://en.wikipedia.org/wiki/Open_Space_Technology), la primera fue el [Save Informáticos](https://www.genbetadev.com/trabajar-como-desarrollador/saveinformaticos-debatiendo-sobre-el-futuro-de-la-profesion-de-informatico) organizado por [Reeelab](https://reeelab.com/) allá por el 2013. Fue una buena experiencia y aprendí mucho en aquella ocasión. Tenía ganas de mas.
 
 Del [#sosz15](https://twitter.com/#sosz15), además de una [bonita camiseta](https://twitter.com/garciaechegaray/status/589867350515646464), me llevé a casa varias ideas sobre cómo mejorar el día a día en mi profesión. Es muy interesante escuchar de mi primera mano procesos y metodologías que otras profesionales aplican en sus respectivas empresas.
 
-El formato de una [open space](http://en.wikipedia.org/wiki/Open_Space_Technology) es bastante simple. No hay charlas desarrolladas previamente, si no que estas se deciden el mismo día. Bueno existen [propuestas previas](http://sesiones.cachirulovalley.com/proposals), pero esto no quiere decir que vayan a ser las mas votadas por los asistentes.
+El formato de una [open space](https://en.wikipedia.org/wiki/Open_Space_Technology) es bastante simple. No hay charlas desarrolladas previamente, si no que estas se deciden el mismo día. Bueno existen [propuestas previas](https://sesiones.cachirulovalley.com/proposals), pero esto no quiere decir que vayan a ser las mas votadas por los asistentes.
 
 El día del evento si alguien está interesado en compartir o hablar sobre un tema en concreto, lo propone al resto de los asistentes. La primera media hora del evento consiste básicamente en esto. Con la ayuda de unas pegatinas (6 por cada asistente) cada uno vota por aquellas propuestas que más le interesan.
 
@@ -44,7 +44,7 @@ Incluso pienso que muchas soluciones no son aplicables a cualquier equipo. Me he
 
 * Todo equipo debe evolucionar (que no involucionar).
 
-* Todo equipo debe tener objetivos comunes. Esta es muy buena. Ya es complejo conseguir que dos personas tengan una meta en común, imaginaros con 6 o 7 compañeros ([two-pizza-team](http://blog.idonethis.com/two-pizza-team/)). No digo que sea imposible, ¿pero que pasa cuando uno de los integrantes no se alinea con dichos objetivos comunes?. ¿Lavado de cerebro?.
+* Todo equipo debe tener objetivos comunes. Esta es muy buena. Ya es complejo conseguir que dos personas tengan una meta en común, imaginaros con 6 o 7 compañeros ([two-pizza-team](https://blog.idonethis.com/two-pizza-team/)). No digo que sea imposible, ¿pero que pasa cuando uno de los integrantes no se alinea con dichos objetivos comunes?. ¿Lavado de cerebro?.
 
 * Todo equipo debe **aprender** a tomar decisiones, y al igual que el líder debe aceptar las consecuencias de las mismas.
 
@@ -91,7 +91,7 @@ Esta charla me sorprendió bastante por que varias personas comentaron sus respe
 
 * Utilizar servicios de terceros para la captación y el desarrollo tecnológico.
 
-* Buscar un proyecto que te tome poco (o nada) de tiempo de desarrollo, vamos un [MVP](http://en.wikipedia.org/wiki/Minimum_viable_product) de toda la vida.
+* Buscar un proyecto que te tome poco (o nada) de tiempo de desarrollo, vamos un [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) de toda la vida.
 
 * Si no da dinero en poco tiempo debes dejarlo morir y buscar otro.
 

@@ -18,8 +18,8 @@ comentario.
 
 Nota: si quieres ampliar información y/o se te queda corto este
 recopilatorio, te recomiendo que vayas a
-[BetaBeers](http://dir.betabeers.com/event/) o
-[Eventosfera](http://www.eventosfera.com "El espacio del Marketing Digital y Eventos 2.0"),
+[BetaBeers](https://dir.betabeers.com/event/) o
+[Eventosfera](https://www.eventosfera.com "El espacio del Marketing Digital y Eventos 2.0"),
 donde puedes encontrar un listado muy completo sobre charlas y eventos
 en toda España.
 
@@ -50,16 +50,16 @@ la difusión y el intercambio de conocimiento sobre metodologías ágiles.
 #### Cachirulo Valley
 
 *Una iniciativa para fomentar el ecosistema emprendedor tecnológico en
-Aragón.*. Organizan [charlas](http://cachirulovalley.com/events/Pasado/)
+Aragón.*. Organizan [charlas](https://cachirulovalley.com/events/Pasado/)
 sobre desarrollo web.
 
 Más información:
 
--   [Web oficial](http://cachirulovalley.com)
--   [Twitter](http://twitter.com/cachirulovalley)
--   [Flickr](http://www.flickr.com/photos/cachirulovalley/)
+-   [Web oficial](https://cachirulovalley.com)
+-   [Twitter](https://twitter.com/cachirulovalley)
+-   [Flickr](https://www.flickr.com/photos/cachirulovalley/)
 -   [Calendario de
-    eventos](http://cachirulovalley.com/calendario-de-eventos/)
+    eventos](https://cachirulovalley.com/calendario-de-eventos/)
 
 #### Cadius Zaragoza
 
@@ -74,14 +74,14 @@ tomar algo y conocerse mejor.*
 
 *Los GTUG son unos grupos de usuarios de tecnología de Google*
 
--   [Web oficial](http://zaragoza.gtugs.org)
--   [Twitter](http://twitter.com/gtug_zaragoza)
+-   [Web oficial](https://zaragoza.gtugs.org)
+-   [Twitter](https://twitter.com/gtug_zaragoza)
 
 #### Monday Reading Club Zaragoza
 
 *El primer club de lectura español de marketing online*
 
--   [Web oficial](http://themondayreadingclub.com/category/zaragoza)
+-   [Web oficial](https://themondayreadingclub.com/category/zaragoza)
 
 #### NSCoder Night Zaragoza
 
@@ -104,8 +104,8 @@ arquitectura de la información*
 
 Más información:
 
--   [Web oficial](http://www.uxlearn.com/)
--   [Twitter](http://twitter.com/uxlearn)
+-   [Web oficial](https://www.uxlearn.com/)
+-   [Twitter](https://twitter.com/uxlearn)
 
 * * * * *
 
@@ -117,7 +117,7 @@ Más información:
 
 Más información:
 
--   [Blog](http://sidraandtweets.wordpress.com/)
+-   [Blog](https://sidraandtweets.wordpress.com/)
 -   [Twitter](https://twitter.com/#!/sidraandtweets)
 
 * * * * *
@@ -131,7 +131,7 @@ Iniciativa para fomentar el desarrollo tecnológico en Castilla y León.
 Más información:
 
 -   [Web Oficial](https://twitter.com/#!/CyLiconValley)
--   [Twitter](http://twitter.com/cylicon_valley)
+-   [Twitter](https://twitter.com/cylicon_valley)
 
 * * * * *
 
@@ -143,20 +143,20 @@ Profesionales del sector internet en Bilbao
 
 Más información:
 
--   [Web oficial](http://www.webdevbilbao.com/)
+-   [Web oficial](https://www.webdevbilbao.com/)
 -   [Twitter](https://twitter.com/webdevbilbao)
 
 #### Euskal Valley
 
 Es una iniciativa para construir un Silicon Valley en Euskadi. Aunque
 acaban de arrancar el debate está bastante animado en el grupo de
-[Linkedin](http://www.linkedin.com/groups/Euskal-Valley-4231295).
+[Linkedin](https://www.linkedin.com/groups/Euskal-Valley-4231295).
 
 Más información:
 
--   [Presentación](http://dl.dropbox.com/u/25158408/Presentaci%C3%B3n%20Silicon%20Eutokia.pdf)
+-   [Presentación](https://dl.dropbox.com/u/25158408/Presentaci%C3%B3n%20Silicon%20Eutokia.pdf)
 -   [Twitter](https://twitter.com/EuskalValley)
--   [Linkedin](http://www.linkedin.com/groups/Euskal-Valley-4231295)
+-   [Linkedin](https://www.linkedin.com/groups/Euskal-Valley-4231295)
 
 #### Iniciador Bilbao
 
@@ -165,20 +165,20 @@ fomentar y facilitar el emprendizaje.*
 
 Más información:
 
--   [Twitter](http://twitter.com/iniciador_BIL)
+-   [Twitter](https://twitter.com/iniciador_BIL)
 
 #### Ideateca
 
 Suelen organizar y patrocinar
-[eventos](http://ideateca.com/blog/category/eventos/) relacionados con
+[eventos](https://ideateca.com/blog/category/eventos/) relacionados con
 el mundo web.
 
 Más información:
 
 -   [Twitter](https://twitter.com/#!/ideateca)
--   [Eventos](http://ideateca.com/blog/category/eventos/)
+-   [Eventos](https://ideateca.com/blog/category/eventos/)
 -   [Marketing
-    Morning](http://ideateca.com/blog/marketing-morning-en-ideateca/)
+    Morning](https://ideateca.com/blog/marketing-morning-en-ideateca/)
 
 #### Bilbao and Tweets
 
@@ -187,7 +187,7 @@ Europea de Negocios).*
 
 Más información:
 
--   [Web oficial](http://bilbaoandtweets.wordpress.com/)
+-   [Web oficial](https://bilbaoandtweets.wordpress.com/)
 
 * * * * *
 
@@ -198,7 +198,7 @@ extensa y “vendible”.
 
 #### The Mêlée
 
-[The Mêlée](http://themelee.org/) es “LA” comunidad de desarrollo web en
+[The Mêlée](https://themelee.org/) es “LA” comunidad de desarrollo web en
 Donostia.
 
 Son los propios participantes (tú, yo, nosotros) quienes organizan,
@@ -206,21 +206,21 @@ gestionan y deciden el tipo de charlas y talleres que se imparten. Todo
 muy democrático y siempre con muy buen rollo.
 
 La mejor forma de estar al tanto es darse de alta en la [lista de
-correo](http://themelee.org/mailing-list "The Mêlée: lista de correo"),
+correo](https://themelee.org/mailing-list "The Mêlée: lista de correo"),
 es bastante activa y allí se va planificando cada evento.
 
 Más información:
 
 -   Horario: viernes de 18:00 a 20:00 (charla) y después cervezas y
     pintxos.
--   [Web oficial](http://themelee.org/)
--   [Twitter](http://twitter.com/themelee)
--   [Lista de correo](http://themelee.org/mailing-list)
+-   [Web oficial](https://themelee.org/)
+-   [Twitter](https://twitter.com/themelee)
+-   [Lista de correo](https://themelee.org/mailing-list)
 
 #### Katayunos & Merendojos
 
 Es un evento para programadores creado y dinamizado por el equipo de
-[Programanía](http://www.programania.net). Consiste en realizar Codings
+[Programanía](https://www.programania.net). Consiste en realizar Codings
 Katas en parejas, con el fin mejorar y aprender metodologías y técnicas
 nuevas de desarrollo.
 
@@ -228,7 +228,7 @@ Más información:
 
 -   Horario: sábados por la mañana.
 -   Lugar: Donostia y alrededores.
--   [Web oficial](http://katayunos.com/)
+-   [Web oficial](https://katayunos.com/)
 
 #### Donostweets
 
@@ -238,8 +238,8 @@ sociales"*
 
 Más información:
 
--   [Web oficial](http://www.donostweets.com/)
--   [Twitter](http://twitter.com/donostweets)
+-   [Web oficial](https://www.donostweets.com/)
+-   [Twitter](https://twitter.com/donostweets)
 
 #### Arteleku
 
@@ -247,7 +247,7 @@ Perteneciente a Tabakalera, suelen organizar talleres sobre tecnología.
 
 Más información:
 
--   [Web oficial](http://www.arteleku.net/portada?set_language=es)
+-   [Web oficial](https://www.arteleku.net/portada?set_language=es)
 -   [Twitter](https://twitter.com/#!/arteleku)
 
 #### Enpresa Digitala
@@ -257,9 +257,9 @@ Más información:
 Más información:
 
 -   [Web
-    oficial](http://www.euskadinnova.net/es/enpresa-digitala/index.aspx)
+    oficial](https://www.euskadinnova.net/es/enpresa-digitala/index.aspx)
 -   [Agenda de
-    eventos](http://www.euskadinnova.net/es/enpresa-digitala/agenda/index.aspx?nivel=1)
+    eventos](https://www.euskadinnova.net/es/enpresa-digitala/agenda/index.aspx?nivel=1)
 -   [Twitter](https://twitter.com/#!/enpresadigitala/)
 
 * * * * *
@@ -276,34 +276,34 @@ en el cual se expone un trabajo de manera sencilla e informal"*
 
 Más información:
 
--   [Web oficial](http://www.pecha-kucha.org/night/san-sebastian/)
--   [Blog](http://pkndonostia.blogspot.com/)
--   [Videos](http://www.youtube.com/user/PKNDonostia)
+-   [Web oficial](https://www.pecha-kucha.org/night/san-sebastian/)
+-   [Blog](https://pkndonostia.blogspot.com/)
+-   [Videos](https://www.youtube.com/user/PKNDonostia)
 
 ##### HUB Gipuzkoa
 
 Si te interesa el mundo del coworking, estos chavales (y chavalas) son
-el grupo impulsor del próximo [HUB](http://the-hub.net/) en Gipuzkoa.
+el grupo impulsor del próximo [HUB](https://the-hub.net/) en Gipuzkoa.
 Realizan reuniones frecuentemente para coordinarse y trabajar en el
 proyecto.
 
 Más información:
 
--   [Wiki](http://hubgipuzkoa.gurewiki.net)
--   [Google Group](http://groups.google.com/group/hubgipuzkoa)
+-   [Wiki](https://hubgipuzkoa.gurewiki.net)
+-   [Google Group](https://groups.google.com/group/hubgipuzkoa)
 -   [Twitter](https://twitter.com/#!/hubgipuzkoa)
--   [Video de presentación](http://www.youtube.com/watch?v=pry-QN61uqg)
+-   [Video de presentación](https://www.youtube.com/watch?v=pry-QN61uqg)
 
 ##### The Glutton Club
 
-[Eventos e iniciativas](http://www.thegluttonclub.com/category/eventos/)
+[Eventos e iniciativas](https://www.thegluttonclub.com/category/eventos/)
 relacionadas con la gastronomía y la buena vida.
 
 Más información:
 
--   [Web Oficial](http://www.thegluttonclub.com/)
--   [Pintxos and Blogs](http://www.pintxosandblogs.com/)
--   [Musika Parkean](http://www.musikaparkean.com/)
+-   [Web Oficial](https://www.thegluttonclub.com/)
+-   [Pintxos and Blogs](https://www.pintxosandblogs.com/)
+-   [Musika Parkean](https://www.musikaparkean.com/)
 
 * * * * *
 
@@ -316,7 +316,7 @@ por el norte, este es tu grupo!*
 
 Más información:
 
--   [Web oficial](http://norte.agile-spain.org/)
+-   [Web oficial](https://norte.agile-spain.org/)
 -   [Twitter](https://twitter.com/#!/agilenorte)
 
 #### Open Data
@@ -338,8 +338,8 @@ la nube*
 
 Más información:
 
--   [Web oficial](http://www.laconnetwork.com/)
--   [Twitter](http://www.twitter.com/laconnetwork)
+-   [Web oficial](https://www.laconnetwork.com/)
+-   [Twitter](https://www.twitter.com/laconnetwork)
 
 * * * * *
 
@@ -352,7 +352,7 @@ todos los interesados en la tecnología .NET en La Rioja.*
 
 Más información:
 
--   [Web oficial](http://www.riojadotnet.com/)
+-   [Web oficial](https://www.riojadotnet.com/)
 -   [Twitter](https://twitter.com/#!/riojadotnet)
 
 * * * * *
@@ -378,12 +378,12 @@ Más información:
 
 *Primer proyecto de Coworking en Pamplona*. Muy activos en twitter,
 siempre están organizando algún evento, charla o
-[merienda](http://www.facebook.com/events/159775414131938/).
+[merienda](https://www.facebook.com/events/159775414131938/).
 
 Más información:
 
--   [Web oficial](http://www.cocoworking.com/)
+-   [Web oficial](https://www.cocoworking.com/)
 -   [Twitter](https://twitter.com/#!/cocoworking/)
--   [Calendario de eventos](http://www.cocoworking.com/eventos/)
+-   [Calendario de eventos](https://www.cocoworking.com/eventos/)
 
 * * * * *

@@ -6,9 +6,9 @@ date: '2013-09-23T17:08:00+02:00'
 type: blog
 ---
 
-[Weinre](http://people.apache.org/~pmuellr/weinre/) es una herramienta que nos permite debugear un servicio web desde cualquier dispositivo móvil.
+[Weinre](https://people.apache.org/~pmuellr/weinre/) es una herramienta que nos permite debugear un servicio web desde cualquier dispositivo móvil.
 
-Por cuestiones profesionales (actualmente trabajo en [Appgree](http://www.appgree.com) ), en los últimos meses mi entorno de trabajo
+Por cuestiones profesionales (actualmente trabajo en [Appgree](https://www.appgree.com) ), en los últimos meses mi entorno de trabajo
 ha sido Windows 7. Necesitamos debugear y testear constantemente en
 entornos móviles y los drivers para estos dispositivos solo suelen tener
 versiones para Windows.
@@ -19,16 +19,16 @@ enfocado para usuarios de Linux/Mac. 
 
 No es la primer vez que me pasa (ni será la última), así que explico
 brevemente cómo configurar
-[Weinre](http://people.apache.org/~pmuellr/weinre/) en Windows 7 a
+[Weinre](https://people.apache.org/~pmuellr/weinre/) en Windows 7 a
 través de Node.js y npm. 
 
 
 Venga, manos a la obra:
 
-**1.-** Instalar [Node](http://nodejs.org/)
+**1.-** Instalar [Node](https://nodejs.org/)
 
 **2.-**
-Instalar [Weinre](http://people.apache.org/~pmuellr/weinre/) utilizando [npm](https://npmjs.org/) (package
+Instalar [Weinre](https://people.apache.org/~pmuellr/weinre/) utilizando [npm](https://npmjs.org/) (package
 manager que se instala junto con Node). Abrir un cmd y escribir:
 
 ```bash
@@ -43,7 +43,7 @@ C:\\Users\\Usuario\\AppData\\Roaming\\npm
 ```
 
 **3.-** Arrancar el
-servicio [Weinre](http://people.apache.org/~pmuellr/weinre/) desde cmd:
+servicio [Weinre](https://people.apache.org/~pmuellr/weinre/) desde cmd:
 
 ```bash
 cd C:\\Users\\Usuario\\AppData\\Roaming\\npm
@@ -70,12 +70,12 @@ pause*
 **4.-** Incluir el script de Weinre en nuestra app:
 
 ```html
-<script src="http://192.168.0.1:8081/target/target-script-min.js/#anonymous"></script>
+<script src="https://192.168.0.1:8081/target/target-script-min.js/#anonymous"></script>
 ```
 
 **5.-** Acceder al servicio desde un browser:
 
-> [http://192.168.0.1:8081/client/\#anonymous](http://192.168.0.1:8081/client/#anonymous)
+> [https://192.168.0.1:8081/client/\#anonymous](https://192.168.0.1:8081/client/#anonymous)
 
 Y con esto ya podéis testear el correcto funcionamiento de vuestra
 aplicación en cualquier dispositivo móvil.

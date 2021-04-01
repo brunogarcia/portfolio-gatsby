@@ -88,7 +88,7 @@ destacar debes estar a la altura.
 ### Grupos profesionales
 
 Definitivamente con los amigos de
-[Mêlée](http://themelee.org) aprendí mucho. Una de las desventajas de
+[Mêlée](https://themelee.org) aprendí mucho. Una de las desventajas de
 ser freelance (aunque quizás algunos la consideran justamente lo
 contrario) es que estás todo el día solo (profesionalmente hablando).
 Las diversas herramientas online no compensan dicha pérdida. La
@@ -98,7 +98,7 @@ pixels en Skype (la mayoría de veces con problemas de sonido).
 
 Esto me “obligó” a buscar cobijo en los [grupos profesionales de
 desarrollo
-web](http://brunogarciaechegaray.tumblr.com/2012/01/18/zona-norte-grupos-profesionales-sobre-desarrollo-web.html)
+web](https://brunogarciaechegaray.tumblr.com/2012/01/18/zona-norte-grupos-profesionales-sobre-desarrollo-web.html)
 de mi ciudad. Y lo pongo entre comillas porque una vez pasado el mal
 trago de presentarte a un grupo de personas que no conoces pero que
 deseas conocer (es casi bipolar), la relación va como la seda.
@@ -108,7 +108,7 @@ entusiastas con ganas de aprender y hacer las cosas bien, es inmenso. Si
 a eso le añades charlas técnicas y conversación amena, entonces desearás
 asistir a cada una de las reuniones e incluso lanzarte al ruedo y [dar
 una charla tu
-mismo](http://themelee.org/post/21218720637/melee-bipolar-bootstrap-si-pero-no-y-dingadanga).
+mismo](https://themelee.org/post/21218720637/melee-bipolar-bootstrap-si-pero-no-y-dingadanga).
 
 ### Sabía que no sabía
 
@@ -124,7 +124,7 @@ por el marketing y la publicidad hasta el manejo de cámaras y equipos de
 edición, vamos ya me entendéis. Y con mi recién ganado título bajo el
 brazo y mucho entusiasmo entre rápidamente a trabajar como diseñador web
 en una de las primeras
-[ISP](http://en.wikipedia.org/wiki/Internet_service_provider) que se
+[ISP](https://en.wikipedia.org/wiki/Internet_service_provider) que se
 montó en mi ciudad.
 
 Pronto me di cuenta que me gustaba más el código y aprendí a maquetar.

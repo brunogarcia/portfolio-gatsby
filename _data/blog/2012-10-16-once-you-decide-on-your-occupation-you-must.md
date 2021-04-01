@@ -12,4 +12,4 @@ type: blog
 
 <iframe src="https://player.vimeo.com/video/36319857" width="100%" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-—Sukiyabashi Jiro ([Jiro Dreams of Sushi](http://vimeo.com/36319857))
+—Sukiyabashi Jiro ([Jiro Dreams of Sushi](https://vimeo.com/36319857))

@@ -9,7 +9,7 @@ thumbnail: https://res.cloudinary.com/pastelitos/image/upload/w_1000,ar_16:9,c_f
 ---
 # Description
 
-A project made with [Vue](https://vuejs.org/), [Vuex](https://vuex.vuejs.org/), [Vue Router](https://router.vuejs.org/), [Vuetify](http://vuetifyjs.com/) and the [API of Last.fm](https://www.last.fm/api/).
+A project made with [Vue](https://vuejs.org/), [Vuex](https://vuex.vuejs.org/), [Vue Router](https://router.vuejs.org/), [Vuetify](https://vuetifyjs.com/) and the [API of Last.fm](https://www.last.fm/api/).
 
 # Last.fm resources
 

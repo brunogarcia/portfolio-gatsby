@@ -6,15 +6,15 @@ date: '2012-02-08T19:17:00+01:00'
 type: blog
 ---
 
-Una de las ideas que hemos estado barajando [(Mikel](http://twitter.com/#!/ojoven), [Gonzalo](http://twitter.com/gonzalo123) y yo) para el próximo [Desafió AbreDatos 2012](http://www.abredatos.es/), y que finalmente hemos descartado. La dejamos libre, por si a alguien le interesa implementarla.
+Una de las ideas que hemos estado barajando [(Mikel](https://twitter.com/#!/ojoven), [Gonzalo](https://twitter.com/gonzalo123) y yo) para el próximo [Desafió AbreDatos 2012](https://www.abredatos.es/), y que finalmente hemos descartado. La dejamos libre, por si a alguien le interesa implementarla.
 
 ### ¿Y de qué va?
 
 -   Agrupar la toda información relaciona a las [asignaturas de
     Formación
-    Profesional](http://todofp.es/todofp/formacion/que-y-como-estudiar/oferta-formativa/todos-los-estudios.html)
+    Profesional](https://todofp.es/todofp/formacion/que-y-como-estudiar/oferta-formativa/todos-los-estudios.html)
     que se encuentra desperdigada en distintas webs del Estado
-    ([TodoFP](http://todofp.es/), [BOE](http://www.boe.es)) y en
+    ([TodoFP](https://todofp.es/), [BOE](https://www.boe.es)) y en
     diferentes formatos (principalmente archivos PDF).
 -   Crear niveles de información adecuados para dicho contenido. En
     total 26 familias profesionales, más de 100 ciclos formativos, y
@@ -25,17 +25,17 @@ Una de las ideas que hemos estado barajando [(Mikel](http://twitter.com/#!/ojove
 ### Comparativas
 
 A diferencia de la UPV-EHU, donde las [todas las
-asignaturas](http://www.ehu.es/p200-content/es/pls/entrada/plew0040.htm_siguiente?p_sesion=&p_cod_idioma=CAS&p_en_portal=S&p_cod_centro=226&p_cod_plan=GINFOR20&p_anyoAcad=act&p_menu=asig_cursos)
+asignaturas](https://www.ehu.es/p200-content/es/pls/entrada/plew0040.htm_siguiente?p_sesion=&p_cod_idioma=CAS&p_en_portal=S&p_cod_centro=226&p_cod_plan=GINFOR20&p_anyoAcad=act&p_menu=asig_cursos)
 son descritas
-[detalladamente](http://www.ehu.es/p200-content/es/pls/entrada/plew0040.htm_asignatura_next?p_sesion=&p_cod_idioma=CAS&p_en_portal=S&p_cod_centro=226&p_cod_plan=GINFOR20&p_anyoAcad=act&p_menu=guia&p_cod_asig=25972&p_ciclo=X&p_curso=1&p_dpto=&p_vengo_de=asig_cursos&p_centro_ori=226&p_plan_ori=GINFOR20),
+[detalladamente](https://www.ehu.es/p200-content/es/pls/entrada/plew0040.htm_asignatura_next?p_sesion=&p_cod_idioma=CAS&p_en_portal=S&p_cod_centro=226&p_cod_plan=GINFOR20&p_anyoAcad=act&p_menu=guia&p_cod_asig=25972&p_ciclo=X&p_curso=1&p_dpto=&p_vengo_de=asig_cursos&p_centro_ori=226&p_plan_ori=GINFOR20),
 en la web oficial del Estado para la Formación Profesional
-[Superior](http://todofp.es/todofp/formacion/que-y-como-estudiar/oferta-formativa/ciclos/grado-superior.html)
+[Superior](https://todofp.es/todofp/formacion/que-y-como-estudiar/oferta-formativa/ciclos/grado-superior.html)
 y
-[Medio](http://todofp.es/todofp/formacion/que-y-como-estudiar/oferta-formativa/ciclos/grado-medio.html),
+[Medio](https://todofp.es/todofp/formacion/que-y-como-estudiar/oferta-formativa/ciclos/grado-medio.html),
 apenas si se nombran.
 
 Ejemplo TodoFp.es: [Desarrollo de Aplicaciones
-Multiplataforma](http://todofp.es/todofp/formacion/que-y-como-estudiar/oferta-formativa/todos-los-estudios/informatica-comunicaciones/desarrollo-aplicaciones-multiplataforma.html).
+Multiplataforma](https://todofp.es/todofp/formacion/que-y-como-estudiar/oferta-formativa/todos-los-estudios/informatica-comunicaciones/desarrollo-aplicaciones-multiplataforma.html).
 
 ![](https://res.cloudinary.com/pastelitos/image/upload/v1617299007/bruno/todofp-imagen-01_ejmrjw.jpg)
 
@@ -49,7 +49,7 @@ debe navegar entre distintas webs del Estado para poder tener una visión
 general y detallada del curso al que desea matricularse.
 
 Ejemplo BOE: [Real Decreto 450/2010: Desarrollo de Aplicaciones
-Multiplataforma](http://www.boe.es/boe/dias/2010/05/20/pdfs/BOE-A-2010-8067.pdf).
+Multiplataforma](https://www.boe.es/boe/dias/2010/05/20/pdfs/BOE-A-2010-8067.pdf).
 
 ### Niveles de información
 

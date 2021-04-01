@@ -13,7 +13,7 @@ HTML/CSS y pre selecciona un buen número de plugins jQuery para abordar cualqui
 
 Estoy trabajando en un proyecto a medida, donde gran parte del desarrollo consiste en crear varios back office para los diferentes roles que tiene la aplicación. Y aunque Bootstrap viene de serie con un bueno número de módulos para crear diferentes layouts, en este caso se nos quedaba corto a nivel de funcionalidades predefinidas.
 
-Investigando las posibilidades que existian en el mercado, dimos con [Wrap Bootstrap](https://wrapbootstrap.com) un servicio similar a [Theme Forest](http://themeforest.net/) si lo tuyo con los themes para Wordpress o Prestashop.
+Investigando las posibilidades que existian en el mercado, dimos con [Wrap Bootstrap](https://wrapbootstrap.com) un servicio similar a [Theme Forest](https://themeforest.net/) si lo tuyo con los themes para Wordpress o Prestashop.
 
 Wrap Bootstrap es un market con cientos de themes y templates, organizado por varias categorías, una de ellas
 [Admin & Dashboards](https://wrapbootstrap.com/themes/admin). ¡Bingo!.
@@ -31,11 +31,11 @@ Flatty como herramienta tiene cosas buenas y malas.
 
 **Primero las malas**. No es de código abierto, por lo tanto la comunidad no puede evolucionar y mejorar la herramienta. Esto influye en el número de actualizaciones y resolución de bugs (la última actualización es de agosto del 2013). También crea una capa de diseño por encima de Bootstrap que puede no encajar con la imagen de marca de tu proyecto.
 
-**Ahora las buenas**. Implementa la última versión de Bootstrap, en concreto la [v3 con Sass](https://github.com/twbs/bootstrap-sass). Utiliza toda la potencia de [Compass](http://compass-style.org/) para gestionar el theme. Y añade varias decenas nuevos modulos HTML/CSS.
+**Ahora las buenas**. Implementa la última versión de Bootstrap, en concreto la [v3 con Sass](https://github.com/twbs/bootstrap-sass). Utiliza toda la potencia de [Compass](https://compass-style.org/) para gestionar el theme. Y añade varias decenas nuevos modulos HTML/CSS.
 
-Por ejemplo [email templates](http://www.bublinastudio.com/flattybs3/email_templates.html), [calendario](http://www.bublinastudio.com/flattybs3/calendar.html), [pack de iconos vía Font Awesome](http://www.bublinastudio.com/flattybs3/buttons_and_icons.html), [plugin de wysiwyg](http://www.bublinastudio.com/flattybs3/wysiwyg.html), [chat](http://www.bublinastudio.com/flattybs3/chats.html), etc. La [lista completa de features](https://wrapbootstrap.com/theme/flatty-flat-administration-template-WB0P6NR1N) la puedes consultar en Wrap Bootstrap.
+Por ejemplo [email templates](https://www.bublinastudio.com/flattybs3/email_templates.html), [calendario](https://www.bublinastudio.com/flattybs3/calendar.html), [pack de iconos vía Font Awesome](https://www.bublinastudio.com/flattybs3/buttons_and_icons.html), [plugin de wysiwyg](https://www.bublinastudio.com/flattybs3/wysiwyg.html), [chat](https://www.bublinastudio.com/flattybs3/chats.html), etc. La [lista completa de features](https://wrapbootstrap.com/theme/flatty-flat-administration-template-WB0P6NR1N) la puedes consultar en Wrap Bootstrap.
 
-Otra punto fuerte de es que puedes personalizar el framework a tu gusto ya que tienes acceso a todos los ficheros [scss](http://sass-lang.com/) del proyecto. Por lo tanto si no necesitas un módulo en concreto, simplemente lo eliminas del fichero principal (en nuestro caso 'admin.scss'). La estructura de este fichero es la siguiente:
+Otra punto fuerte de es que puedes personalizar el framework a tu gusto ya que tienes acceso a todos los ficheros [scss](https://sass-lang.com/) del proyecto. Por lo tanto si no necesitas un módulo en concreto, simplemente lo eliminas del fichero principal (en nuestro caso 'admin.scss'). La estructura de este fichero es la siguiente:
 
 ```
 @import "compass";

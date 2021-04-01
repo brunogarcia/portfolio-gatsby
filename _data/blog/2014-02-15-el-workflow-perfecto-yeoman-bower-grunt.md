@@ -5,16 +5,16 @@ title: 'El workflow perfecto: Yeoman + Bower + Grunt'
 date: '2014-02-15T07:56:00+01:00'
 ---
 
-Últimamente estoy trasteando con los [generadores](http://yeoman.io/community-generators.html) de [Yeoman](http://yeoman.io "Yeoman"). Yeoman es una herramienta para automatizar tareas en proyectos front-end. Trabaja conjuntamente con [Bower](http://bower.io) y [Grunt](http://gruntjs.com), otro par de proyectos *open source* para (adivina...) automatizar tareas.
+Últimamente estoy trasteando con los [generadores](https://yeoman.io/community-generators.html) de [Yeoman](https://yeoman.io "Yeoman"). Yeoman es una herramienta para automatizar tareas en proyectos front-end. Trabaja conjuntamente con [Bower](https://bower.io) y [Grunt](https://gruntjs.com), otro par de proyectos *open source* para (adivina...) automatizar tareas.
 
 ***
 
 ### Bower
 
-[Bower](http://bower.io) es una herramienta _open source_ liberada por Twitter y sirve para gestionar
+[Bower](https://bower.io) es una herramienta _open source_ liberada por Twitter y sirve para gestionar
 todas las dependencias de tu proyecto front-end. La idea es similar a
 [Composer](https://getcomposer.org/) en PHP o
-[Bundler](http://bundler.io/) para Ruby.
+[Bundler](https://bundler.io/) para Ruby.
 
 El funcionamiento de Bower es bastante simple: creas la configuración en
 un archivo *bower.json* y después basta con lanzar una línea en la
@@ -25,14 +25,14 @@ igual si son 5 o 50, Bower las bajara por ti en pis pas.
 
 ### Grunt
 
-[Grunt](http://gruntjs.com) creado y mantenido por la gente de
-[Bocoup](http://bocoup.com/), es una herramienta para automatizar tareas
+[Grunt](https://gruntjs.com) creado y mantenido por la gente de
+[Bocoup](https://bocoup.com/), es una herramienta para automatizar tareas
 en tu entorno de desarrollo.
 
 Por ejemplo concatenar *.js* o *.css*, minimizar HTML e incluso
 imágenes, compilar archivos *.less* o *.sass*, crear sprites sobre la
 marcha, etc. En fin, Grunt tiene un gran repositorio de
-[plugins](http://gruntjs.com/plugins "Grunt plugins") para cualquier
+[plugins](https://gruntjs.com/plugins "Grunt plugins") para cualquier
 tarea que te puedas imaginar.
 
 Para configurar Grunt son necesarios dos archivos: *package.json* y
@@ -41,7 +41,7 @@ necesarias para correr las tareas. En el segundo creas la configuración
 de cada tarea o grupo de tareas. Si sientes curiosidad, te recomiendo
 leer este artículo: [Grunt for People Who Think Things Like Grunt are
 Weird and
-Hard](http://24ways.org/2013/grunt-is-not-weird-and-hard/ "Grunt for People Who Think Things Like Grunt are Weird and Hard")
+Hard](https://24ways.org/2013/grunt-is-not-weird-and-hard/ "Grunt for People Who Think Things Like Grunt are Weird and Hard")
 
 ***
 
@@ -54,10 +54,10 @@ sea, basta con configurarlo correctamente para que Yeoman sea capaz de
 hacerlo el solo (siempre con la ayuda de Bower y Grunt).
 
 La verdad es que existen cientos de
-[generadores](http://yeoman.io/community-generators.html) super útiles,
+[generadores](https://yeoman.io/community-generators.html) super útiles,
 para prácticamente cualquier tipo de proyecto. Y si no encuentras alguno
 que se adapte a tu requerimientos, siempre puedes [crear un generador
-personalizado](http://yeoman.io/generators.html#writing-your-first-generator "Yeoman: writing your first generator").
+personalizado](https://yeoman.io/generators.html#writing-your-first-generator "Yeoman: writing your first generator").
 
 Lo que más me gusta es que se aprende mucho leyendo el código de cada
 generador. La gente intenta volcar todo su conocimiento técnico y forma
@@ -70,9 +70,9 @@ de trabajar en cada generador. Y eso es oro puro.
 Si os apetece trastear un poco, os dejo un par de ejemplos.
 
 **Importante**: previamente debéis tener instalados
-[Node](http://nodejs.org/download/), [Git](http://git-scm.com/),
-[Yeoman](http://yeoman.io/community-generators.html "Yeoman: community generators"),
-[Bower](http://bower.io) y [Grunt](http://gruntjs.com) en vuestras
+[Node](https://nodejs.org/download/), [Git](https://git-scm.com/),
+[Yeoman](https://yeoman.io/community-generators.html "Yeoman: community generators"),
+[Bower](https://bower.io) y [Grunt](https://gruntjs.com) en vuestras
 máquinas.
 
 ***
@@ -84,9 +84,9 @@ el [generador](https://github.com/Thomas-Lebeau/generator-bootstrap-less "yeoma
 por [Thomas Lebeau](https://github.com/Thomas-Lebeau)
 
 Este generador creará un proyecto con las siguientes dependencias:
-[Bootstrap 3](http://getbootstrap.com),
-[Modernizr](http://modernizr.com/), [jQuery](http://jquery.com/) y [Font
-Awesone](http://fortawesome.github.io/Font-Awesome/) (opcional).
+[Bootstrap 3](https://getbootstrap.com),
+[Modernizr](https://modernizr.com/), [jQuery](https://jquery.com/) y [Font
+Awesone](https://fortawesome.github.io/Font-Awesome/) (opcional).
 
 La configuración de Bower la podéis encontrar en
 [\_bower.json](https://github.com/Thomas-Lebeau/generator-bootstrap-less/blob/master/app/templates/_bower.json). Las
@@ -130,7 +130,7 @@ la línea 289 del fichero *Gruntfile.js*. En este caso: *jshint, test y build*
 Las dependencias necesarias para ejecutar las tareas se encuentran en la
 carpeta *node\_modules* en la raíz del proyecto.
 
-Para ir más ligeros, vamos a saltarnos las comprobaciones de [JSHint](http://www.jshint.com/install/)
+Para ir más ligeros, vamos a saltarnos las comprobaciones de [JSHint](https://www.jshint.com/install/)
 
 > $ grunt —force
 
@@ -194,7 +194,7 @@ creado por [Peter Foerger](https://github.com/bauschan).
 
 Este generador funciona básicamente como el anterior, con la única
 diferencia que el layout se gestiona con [Foundation
-5](http://foundation.zurb.com).
+5](https://foundation.zurb.com).
 
 La configuración de Bower la podéis encontrar en [_bower.json](https://github.com/bauschan/generator-foundation-five/blob/master/app/templates/_bower.json).
 Las tareas de Grunt están listadas en [_package.json](https://github.com/bauschan/generator-foundation-five/blob/master/app/templates/_package.json).

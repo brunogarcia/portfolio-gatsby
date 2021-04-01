@@ -11,7 +11,7 @@ Intentaré hacer una introducción muy básica sobre como funciona un navegador 
 Está escrito muy rápidamente para contestar a un [twit lanzado
 por @mcesttevan](https://twitter.com/mcestevan/status/321170764021776386),
 con respecto a la Bonilista “[Evangelista Técnico por un
-día](http://us2.campaign-archive2.com/?u=374c664073e1a1fa3deca53b4&id=92e3e39bcd)”.
+día](https://us2.campaign-archive2.com/?u=374c664073e1a1fa3deca53b4&id=92e3e39bcd)”.
 
 ### Conceptos básicos
 
@@ -27,12 +27,12 @@ relevante en el mercado de los navegadores web.*
 Para realizar correctamente la tarea asignada (navegar por la web) esta
 aplicación necesita de varios **componentes**. Los mas importantes:
 
-1.  [Motor de Renderizado](http://en.wikipedia.org/wiki/Layout_engine),
+1.  [Motor de Renderizado](https://en.wikipedia.org/wiki/Layout_engine),
     encargado de procesar y “pintar” los componentes de cada página
     (HTML, CSS, XML, imágenes) en la pantalla de tu navegador.
     Actualmente existen varios en el mercado: Webkit (Chrome, Safari,
     Opera), Gecko (Firefox) y Trident (Internet Explorer).
-2.  [Motor Javascript](http://en.wikipedia.org/wiki/JavaScript_engine),
+2.  [Motor Javascript](https://en.wikipedia.org/wiki/JavaScript_engine),
     encargado de procesar el código javascript de la página web. Los
     principales: V8 (Google), Rhino (Mozilla), Chakra (Microsoft).
 
@@ -43,10 +43,10 @@ involucradas.
 
 1.  **Organizaciones**: la encargada de crear la mayoría de
     los estándares que actualmente usamos en cualquier página web es la
-    [W3C](http://www.w3.org/). Fue fundada por Tim Bernes-Lee (el
+    [W3C](https://www.w3.org/). Fue fundada por Tim Bernes-Lee (el
     creador  de la WWW). Aunque también cabe destacar a
-    [ECMA](http://www.ecma-international.org/) (Javascript)
-    y [WHATWG](http://www.whatwg.org/) (HTML5).
+    [ECMA](https://www.ecma-international.org/) (Javascript)
+    y [WHATWG](https://www.whatwg.org/) (HTML5).
 2.  **Grandes empresas** con intereses económicos en el sector: Google,
     Adobe, Apple, Microsoft, Oracle, etc.
 
@@ -92,12 +92,12 @@ En la primera década del nuevo siglo (2000-2010) el sector ha estado
 luchando constantemente por resolver este problema de una vez por todas.
 
 Yo realmente veía el asunto casi finalizado. Parecía que todos estaban
-de acuerdo en que [WebKit](http://www.webkit.org/) era la mejor opción.
+de acuerdo en que [WebKit](https://www.webkit.org/) era la mejor opción.
 Es un proyecto de software libre que utilizan dos de los principales
 navegadores: Chrome y Safari. Además es por defecto el motor utilizado
 en las principales plataformas móviles: iPhone/iPad y Android. Y por
 supuesto cumple muy bien los estándares web (para los más curiosos:
-existe una herramienta llamada [Acid Test](http://acid3.acidtests.org/)
+existe una herramienta llamada [Acid Test](https://acid3.acidtests.org/)
 que mide este grado de compatibilidad).
 
 El problema es que ahora Google ha anunciado que hará un fork de WebKit,
@@ -105,12 +105,12 @@ o sea una copia exacta del proyecto original.
 
 Entonces,  ¿si es una copia exacta, por qué se ha armado tanto revuelo?.
 El problema está en que todos los cambios y mejoras aplicados a este
-fork (llamado [Blink](http://www.chromium.org/blink)) serán
+fork (llamado [Blink](https://www.chromium.org/blink)) serán
 incompatibles con WebKit. O sea a la larga se irá convirtiendo en un
 nuevo motor de renderizado, con todo lo que ello conlleva:**  otra vez
 perdida de consenso y nuevas y molestas****incompatibilidades entre
 navegadores.**
 
 Vamos, otra [guerra de
-navegadores](http://en.wikipedia.org/wiki/Browser_wars) que tantos
+navegadores](https://en.wikipedia.org/wiki/Browser_wars) que tantos
 problemas causo en el pasado. Y eso no beneficia a nadie.

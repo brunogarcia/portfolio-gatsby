@@ -17,14 +17,14 @@ electrónico, el mundo anglosajón nos lleva ventaja. Si os tomáis la
 molestia de revisar las landing pages de cualquier best sellers inglés o
 americano veréis esto: 
 
-[Between Shades of Gray](http://www.betweenshadesofgray.com/)
+[Between Shades of Gray](https://www.betweenshadesofgray.com/)
 
 [![Between Shades of
-Gray](https://res.cloudinary.com/pastelitos/image/upload/v1617299120/bruno/anglo-01_p4pyhk.png)](http://www.betweenshadesofgray.com/ "Between Shades of Gray")
+Gray](https://res.cloudinary.com/pastelitos/image/upload/v1617299120/bruno/anglo-01_p4pyhk.png)](https://www.betweenshadesofgray.com/ "Between Shades of Gray")
 
-[IMPOSSIBLE](http://us.penguingroup.com/static/packages/us/yreaders/impossible/index.html)
+[IMPOSSIBLE](https://us.penguingroup.com/static/packages/us/yreaders/impossible/index.html)
 
-[![IMPOSSIBLE](https://res.cloudinary.com/pastelitos/image/upload/v1617299120/bruno/anglo-02_b0qwxb.png)](http://us.penguingroup.com/static/packages/us/yreaders/impossible/index.html "Between Shades of Gray")
+[![IMPOSSIBLE](https://res.cloudinary.com/pastelitos/image/upload/v1617299120/bruno/anglo-02_b0qwxb.png)](https://us.penguingroup.com/static/packages/us/yreaders/impossible/index.html "Between Shades of Gray")
 
 Realmente impresionante. Han sabido aplicar el mismo concepto que existe
 para cualquier otro producto de venta en internet. Tampoco hay que ser
@@ -44,7 +44,7 @@ españolas.
 #### Editorial Anagrama
 
 [![Una mujer en
-Berlín](https://res.cloudinary.com/pastelitos/image/upload/v1617299121/bruno/spain-01_fjgnca.png)](http://www.anagrama-ed.es/titulo/PN_619 "Una mujer en Berlín")
+Berlín](https://res.cloudinary.com/pastelitos/image/upload/v1617299121/bruno/spain-01_fjgnca.png)](https://www.anagrama-ed.es/titulo/PN_619 "Una mujer en Berlín")
 
 ¿PVP sin IVA?, ¿PVP con IVA? ¿EN SERIO?. Parece que han sacado los datos
 directamente del aplicativo de logística y ventas. Vamos, la que
@@ -60,7 +60,7 @@ landing page.
 
 Una lastima que un libro traducido a varios idiomas, con un [rating de
 4.27 (sobre 5) y más de 2000 comentarios en
-GoodReads](http://www.goodreads.com/book/show/30851.A_Woman_in_Berlin),
+GoodReads](https://www.goodreads.com/book/show/30851.A_Woman_in_Berlin),
 sea tratado de esta forma .
 
 #### Elkar
@@ -69,7 +69,7 @@ No pienso ni comentarlo, creo que habla por si mismo. Y será un libro
 que dará mucho juego a nivel gráfico.
 
 [![COCINA CON PRODUCTO DE TEMPORADA
-](https://res.cloudinary.com/pastelitos/image/upload/v1617299121/bruno/euskadi-01_lcq0rs.png)](http://www.ttarttalo.com/artikulua.cfm?datuak=cocina-con-producto-de-temporada-azpeitia-salvador,-josema&kodea=131.01040 "COCINA CON PRODUCTO DE TEMPORADA")
+](https://res.cloudinary.com/pastelitos/image/upload/v1617299121/bruno/euskadi-01_lcq0rs.png)](https://www.ttarttalo.com/artikulua.cfm?datuak=cocina-con-producto-de-temporada-azpeitia-salvador,-josema&kodea=131.01040 "COCINA CON PRODUCTO DE TEMPORADA")
 
 #### Blackie Books
 
@@ -85,12 +85,12 @@ prensa. Incluso la tengo en mi lista de ‘compras pendientes’.
 debidamente en la página oficial del libro?.
 
 Para comenzar (esto es de primero de SEO) la URL es esta maravilla:
-“*[http://www.blackiebooks.org/?service=libro&id=23](http://www.blackiebooks.org/?service=libro&id=23)*”.
+“*[https://www.blackiebooks.org/?service=libro&id=23](https://www.blackiebooks.org/?service=libro&id=23)*”.
 Muy semántica y user friendly.
 
 Y si hacemos un análisis rápido de la portada, nos sale esto:
 
-[![Kapitoil](https://res.cloudinary.com/pastelitos/image/upload/v1617299121/bruno/spain-02_tmm1dg.png)](http://www.blackiebooks.org/?service=libro&id=23 "Kapitoil")
+[![Kapitoil](https://res.cloudinary.com/pastelitos/image/upload/v1617299121/bruno/spain-02_tmm1dg.png)](https://www.blackiebooks.org/?service=libro&id=23 "Kapitoil")
 
 #### Astiberri
 
@@ -98,7 +98,7 @@ Una de las principales editoriales de novela gráfica. Me hace pensar que
 se copian unas a otras. O tienen contratado al mismo proveedor.
 
 [![Tú me has
-matado](https://res.cloudinary.com/pastelitos/image/upload/v1617299121/bruno/spain-03_xbsnb8.png)](http://astiberri.com/ficha_prod.php?cod=tumehasmatado "Tú me has matado")
+matado](https://res.cloudinary.com/pastelitos/image/upload/v1617299121/bruno/spain-03_xbsnb8.png)](https://astiberri.com/ficha_prod.php?cod=tumehasmatado "Tú me has matado")
 
 ***
 
@@ -114,11 +114,11 @@ semana le puedes encontrar en Twitter hablando con sus fans. La landing
 page de su última novela es perfecta.
 
 Una idea: añadir un enlace a [Todos Tus
-Libros](http://www.todostuslibros.com/libros/puente-de-los-asesinos-el_978-84-204-0709-8),
+Libros](https://www.todostuslibros.com/libros/puente-de-los-asesinos-el_978-84-204-0709-8),
 para darle más opciones de compra al cliente.
 
 [![El puente de los
-asesinos](https://res.cloudinary.com/pastelitos/image/upload/v1617299121/bruno/spain-04_dmy1gk.png)](http://www.perezreverte.com/libro/584/el-puente-de-los-asesinos/ "El puente de los asesinos")
+asesinos](https://res.cloudinary.com/pastelitos/image/upload/v1617299121/bruno/spain-04_dmy1gk.png)](https://www.perezreverte.com/libro/584/el-puente-de-los-asesinos/ "El puente de los asesinos")
 
 #### Glutton Club
 
@@ -130,4 +130,4 @@ qué?. ¿Acaso es tan complicado crear una plantilla así de buena para un
 catálogo de 50, 500 o 5000 libros?.
 
 [![Hecho a
-mano](https://res.cloudinary.com/pastelitos/image/upload/v1617299121/bruno/euskadi-02_lzeyjl.png)](http://books.thegluttonclub.com/2010/hecho-a-mano/ "Hecho a mano")
+mano](https://res.cloudinary.com/pastelitos/image/upload/v1617299121/bruno/euskadi-02_lzeyjl.png)](https://books.thegluttonclub.com/2010/hecho-a-mano/ "Hecho a mano")

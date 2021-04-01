@@ -21,7 +21,7 @@ Features:
 
 # Tech
 
-Made with [Vue](https://vuejs.org/), [Vuex](https://vuex.vuejs.org/), [Vuetify](http://vuetifyjs.com/) and the [API of Magic The Gathering](https://docs.magicthegathering.io/).
+Made with [Vue](https://vuejs.org/), [Vuex](https://vuex.vuejs.org/), [Vuetify](https://vuetifyjs.com/) and the [API of Magic The Gathering](https://docs.magicthegathering.io/).
 
 Unit testing with [Vue Testing Library](https://testing-library.com/docs/vue-testing-library/intro).
 
