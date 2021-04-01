@@ -3,7 +3,6 @@ template: BlogPost
 path: /phonegap-workshop
 date: 2014-10-25T19:54:30+02:00
 title: Phonegap Workshop
-metaDescription: Phonegap Workshop
 type: blog
 ---
 
