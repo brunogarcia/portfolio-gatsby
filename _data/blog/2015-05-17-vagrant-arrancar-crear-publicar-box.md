@@ -7,12 +7,12 @@ metaDescription: Vagrant - arrancar, crear y publicar un box
 type: blog
 ---
 
-En Poun Studio vamos a comenzar varios proyectos con [Symfony](http://www.symfony.com). Hemos decidido empezar con buen pie creando un entorno virtualizado con [Vagrant](https://www.vagrantup.com/) que nos pueda servir para distintos proyectos y nos ahorre el trabajo de configurar cada entorno en distintas maquinas.
+En Poun Studio vamos a comenzar varios proyectos con [Symfony](https://www.symfony.com). Hemos decidido empezar con buen pie creando un entorno virtualizado con [Vagrant](https://www.vagrantup.com/) que nos pueda servir para distintos proyectos y nos ahorre el trabajo de configurar cada entorno en distintas maquinas.
 
 Esto nos servirá para agilizar el flujo de trabajo entre el equipo de desarrollo y los diseñadores. Queremos que todos puedan trabajar y realizar pruebas en un mismo entorno sin preocuparse de engorros procesos de configuración.
 
 En nuestro caso, hemos utilizado como base el box creado por [Scotch.io](https://box.scotch.io/), que ya viene con un entorno <abbr title="Linux, Apache, MySQL, Linux">LAMP</abbr> preinstalado (además de Node, Ruby, Composer, cURL, Git, etc).
-A este box le hemos añadido [Symfony](http://www.symfony.com), seguidamente hemos clonado un proyecto desde nuestro repositorio privado en [Bitbucket](https://bitbucket.org/), hemos creado la BD y por último hemos configurado los permisos necesarios para que funcione todo correctamente.
+A este box le hemos añadido [Symfony](https://www.symfony.com), seguidamente hemos clonado un proyecto desde nuestro repositorio privado en [Bitbucket](https://bitbucket.org/), hemos creado la BD y por último hemos configurado los permisos necesarios para que funcione todo correctamente.
 
 Una vez finalizado este proceso hemos empaquetado un nuevo box personalizado a nuestras necesidades. A partir de este punto nos hemos topado con un pequeño problema: ¿y ahora que hacemos con este box de 600 mb? ¿lo subimos al repositorio? ¿utilizamos dropbox para compartirlo con el resto del equipo?.
 
@@ -108,7 +108,7 @@ Realizar las configuraciones necesarias en el box base. Por ejemplo: instalar Sy
 Testear el nuevo entorno
 
 ```html
-http://192.168.33.10
+https://192.168.33.10
 ```
 
 ### Preparar el box

@@ -8,17 +8,17 @@ type: blog
 
 These are the required steps for upload a signed APK to Google Play with the help of Phonegap Build
 
-1.- Generate a private key using the management utility [keytool](http://docs.oracle.com/javase/7/docs/technotes/tools/solaris/keytool.html)
+1.- Generate a private key using the management utility [keytool](https://docs.oracle.com/javase/7/docs/technotes/tools/solaris/keytool.html)
 
 ```shell
 $ keytool -genkey -v -keystore NAME_YOUR_FILE.keystore -alias YOUR_ALIAS -keyalg RSA -keysize 2048 -validity 10000
 ```
 
-[More info in Android Developer Guide](http://developer.android.com/tools/publishing/app-signing.html#signing-manually)
+[More info in Android Developer Guide](https://developer.android.com/tools/publishing/app-signing.html#signing-manually)
 
-2.- Create a new "Signing Key" in [Phonegap Build](http://build.phonegap.com). Go to "Account/Signing Keys/Android" and upload the keystore file.
+2.- Create a new "Signing Key" in [Phonegap Build](https://build.phonegap.com). Go to "Account/Signing Keys/Android" and upload the keystore file.
 
-[More info Phonegap Build Guide](http://docs.build.phonegap.com/en_US/3.3.0/signing_signing-android.md.html)
+[More info Phonegap Build Guide](https://docs.build.phonegap.com/en_US/3.3.0/signing_signing-android.md.html)
 
 3.- Compile the Android app with the new key. You'll need to put the password that you've given in step 1.
 
@@ -26,4 +26,4 @@ $ keytool -genkey -v -keystore NAME_YOUR_FILE.keystore -alias YOUR_ALIAS -keyalg
 
 5.- Go to [Google Play Publish](https://play.google.com/apps/publish/) and upload the signed APK. Remember update the special property `versionCode` in your `config.xml`.
 
-[More info Phonegap Build Guide](http://docs.build.phonegap.com/en_US/3.3.0/configuring_basics.md.html#The%20Basics)
+[More info Phonegap Build Guide](https://docs.build.phonegap.com/en_US/3.3.0/configuring_basics.md.html#The%20Basics)

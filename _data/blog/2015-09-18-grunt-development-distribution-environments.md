@@ -19,7 +19,7 @@ grunt.registerTask('default', ['connect:livereload', 'watch']);
 
 ## Connect
 
-Primero arranco un servidor Node con la ayuda del plugin [Connect](https://github.com/gruntjs/grunt-contrib-connect) y abro automáticamente un navegador con la IP y el puerto especificado en la configuración. Por defecto <code>http://localhost:9001</code>.
+Primero arranco un servidor Node con la ayuda del plugin [Connect](https://github.com/gruntjs/grunt-contrib-connect) y abro automáticamente un navegador con la IP y el puerto especificado en la configuración. Por defecto <code>https://localhost:9001</code>.
 
 `gist:brunogarcia/1c2ddab2790a4adf9a7e`
 
@@ -33,7 +33,7 @@ Despúes configuro [Watch](https://www.npmjs.com/package/grunt-contrib-watch) co
 
 Utilizo el plugin [Sass](https://www.npmjs.com/package/grunt-contrib-sass) para Grunt para transformar -[transpiling](https://www.stevefenton.co.uk/2012/11/compiling-vs-transpiling/)- mis ficheros <code>scss</code> a <code>css</code>. En el entorno <code>dev</code>, compilo Sass en modo _expanded_ para poder debugear los ficheros <code>css</code> fácilmente.
 
-Para que este plugin funcione necesitas tener instalado Ruby y Sass. Todas las [configuraciones de salida](http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style) de Sass las puedes encontrar en la documentación oficial.
+Para que este plugin funcione necesitas tener instalado Ruby y Sass. Todas las [configuraciones de salida](https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style) de Sass las puedes encontrar en la documentación oficial.
 
 `gist:brunogarcia/a5632a66b7e945317a52`
 
@@ -143,7 +143,7 @@ Y la configuración es bastante simple:
 
 ## Sass
 
- En el entorno <code>dist</code>, compilo Sass en modo _compressed_. Para que este plugin funcione necesitas tener instalado Ruby y Sass. Todas las [configuraciones de salida](http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style) de Sass las puedes encontrar en la documentación oficial.
+ En el entorno <code>dist</code>, compilo Sass en modo _compressed_. Para que este plugin funcione necesitas tener instalado Ruby y Sass. Todas las [configuraciones de salida](https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style) de Sass las puedes encontrar en la documentación oficial.
 
 `gist:brunogarcia/3e6f1e6c797c2e882cf8`
 
