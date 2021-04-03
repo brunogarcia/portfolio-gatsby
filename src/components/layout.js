@@ -2,7 +2,7 @@ import React from "react"
 import { Link, useStaticQuery, graphql } from "gatsby"
 import 'prismjs/themes/prism-okaidia.css';
 
-export default ({ children }) => {
+export default function Layout ({ children }) {
   const data = useStaticQuery(
     graphql`
       query {
