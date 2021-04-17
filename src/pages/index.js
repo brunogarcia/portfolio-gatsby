@@ -20,16 +20,21 @@ const IndexPage = ({
     .map(edge => <Item key={edge.node.id} post={edge.node} />)
 
   const Posts = edges
-  .filter(edge =>  edge.node.frontmatter.type === BLOG)
-  .map(edge => <Item key={edge.node.id} post={edge.node} />)
+    .filter(edge =>  edge.node.frontmatter.type === BLOG)
+    .map(edge => <Item key={edge.node.id} post={edge.node} />)
 
   return (
     <Layout>
       <Helmet>
         <title>{site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
-        {!site.siteMetadata.w3l_dom_key ? null : <meta name="w3l-domain-verification" content={site.siteMetadata.w3l_dom_key} />}
+        {
+          !site.siteMetadata.w3l_dom_key
+          ? null
+          : <meta name="w3l-domain-verification" content={site.siteMetadata.w3l_dom_key} />
+        }
       </Helmet>
+
       <HeroHeader />
 
       <h2>Experiments &darr;</h2>
@@ -45,7 +50,8 @@ const IndexPage = ({
   )
 }
 
-export default IndexPage
+export default IndexPage;
+
 export const pageQuery = graphql`
   query indexPageQuery {
     site {

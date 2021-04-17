@@ -3,33 +3,34 @@ import Helmet from 'react-helmet';
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 
-export default function Template({
-  data, // this prop will be injected by the GraphQL query below.
-}) {
-  const { site, markdownRemark } = data // data.markdownRemark holds your post data
-  const { siteMetadata } = site
-  const { frontmatter, html } = markdownRemark
+export default function Template({ data }) {
+  const { site, markdownRemark } = data;
+  const { siteMetadata } = site;
+  const { frontmatter, html } = markdownRemark;
+
   return (
     <Layout>
       <Helmet>
         <title>{frontmatter.title} | {siteMetadata.title}</title>
         <meta name="description" content={frontmatter.metaDescription} />
       </Helmet>
+
       <div className="blog-post-container">
-        <article className="post">
-          
+        <article className="post">          
           {!frontmatter.thumbnail && (
             <div>
               <h1 className="post-title">{frontmatter.title}</h1>
               <div className="post-meta">{frontmatter.date}</div>
             </div>
           )}
+
           {!!frontmatter.thumbnail && (
             <div className="post-thumbnail" style={{backgroundImage: `url(${frontmatter.thumbnail})`}}>
               <h1 className="post-title">{frontmatter.title}</h1>
               <div className="post-meta">{frontmatter.date}</div>
             </div>
           )}
+
           <div
             className="blog-post-content"
             dangerouslySetInnerHTML={{ __html: html }}
@@ -40,6 +41,8 @@ export default function Template({
   )
 }
 
+// this data will be injected into "data" prop
+// data.markdownRemark holds your post data
 export const pageQuery = graphql`
   query($path: String!) {
     site {
