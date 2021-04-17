@@ -160,16 +160,16 @@ a {
 }
 
 .button {
-  padding: 18px 27px;
+  padding: 14px 22px;
   display: inline-block;
   background: var(--btn-bg);
   border: 1px solid var(--btn-bdr);
   border-radius: 9px;
   text-decoration: none;
   color: var(--btn-text-color);
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 400;
-  margin: 0 20px 20px 0;
+  margin: 0 10px 15px 0;
   transition: background-color .3s linear;
   &.-primary {
     background-color: var(--primary-color);
@@ -184,7 +184,7 @@ a {
       width: 20px;
       height: 20px;
       padding-right: 0.3em;
-      filter: invert(1);
+      filter: white;
     }
   }
   &:hover {
