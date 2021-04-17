@@ -2,6 +2,8 @@ import React from "react"
 import { Link, useStaticQuery, graphql } from "gatsby"
 import 'prismjs/themes/prism-okaidia.css';
 
+const year = new Date().getFullYear();
+
 export default function Layout ({ children }) {
   const data = useStaticQuery(
     graphql`
@@ -24,7 +26,7 @@ export default function Layout ({ children }) {
       {children}
       <footer className="site-footer">
         <p>
-          &copy; 2020 Bruno Garcia
+          &copy; {year} Bruno Garcia
           &bull; Powered by <a href="https://github.com/brunogarcia/portfolio">Github</a>, <a href="https://www.gatsbyjs.org/">Gatsby</a> and <a href="https://www.netlify.com/">Netlify</a>
         </p>
       </footer>

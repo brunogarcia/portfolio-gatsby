@@ -4,10 +4,12 @@ import { Link } from "gatsby"
 const Item = ({ post }) => (
   <article className="card ">
     <Link to={post.frontmatter.path}>
-      {!!post.frontmatter.thumbnail && (
-        <img src={post.frontmatter.thumbnail} alt={post.frontmatter.title + "- Featured Shot"} />
-      )}
+      {
+        !!post.frontmatter.thumbnail
+        && (<img src={post.frontmatter.thumbnail} alt={post.frontmatter.title} />)
+      }
     </Link>
+
     <header>
       <h2 className="post-title">
         <Link to={post.frontmatter.path} className="post-link">
@@ -18,4 +20,5 @@ const Item = ({ post }) => (
     </header>
   </article>
 )
+
 export default Item

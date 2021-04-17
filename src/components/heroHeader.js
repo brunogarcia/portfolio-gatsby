@@ -4,7 +4,6 @@ import GithubIcon from "../images/github.inline.svg";
 import LinkedinIcon from "../images/linkedin.inline.svg";
 
 export default function HeroHeader() {
-  
   return (
     <StaticQuery
       query={graphql`
