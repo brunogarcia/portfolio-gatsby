@@ -21,7 +21,7 @@ export default function HeroHeader() {
         <div className="hero-header">
           <div className="row">
             <div className="column-left">
-              <img src="https://res.cloudinary.com/pastelitos/image/upload/v1607767807/bruno/bruno-garcia_cjd0nt.jpg" alt="Avatar of Bruno" />
+              <img src="https://res.cloudinary.com/pastelitos/image/upload/v1670174082/bruno/bruno-garcia_qqrpip.jpg" alt="Avatar of Bruno" />
             </div>
             <div className="column-right">
               <div className="headline">
